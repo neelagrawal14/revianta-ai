@@ -44,6 +44,7 @@ def search_datasets(query: str, limit: int = 10):
             url=dataset.get("ref"),
             source="kaggle",
         )
+        normalized_dataset["record_type"] = "dataset"
 
         datasets.append(normalized_dataset)
 

@@ -48,7 +48,8 @@ def search_repositories(query: str, per_page: int = 10):
             doi=None,
             url=repo.get("html_url"),
             source="github",
-        )
+        )        
+        normalized_repository["record_type"] = "github"
 
         repositories.append(normalized_repository)
 
