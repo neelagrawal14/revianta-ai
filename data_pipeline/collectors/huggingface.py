@@ -45,7 +45,7 @@ def search_datasets(query: str, limit: int = 10):
             url=f"https://huggingface.co/datasets/{dataset_id}",
             source="huggingface",
         )
-normalized_dataset["record_type"] = "dataset"
+        normalized_dataset["record_type"] = "dataset"
 
         datasets.append(normalized_dataset)
 
