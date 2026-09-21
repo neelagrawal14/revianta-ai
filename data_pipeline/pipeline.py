@@ -1,3 +1,4 @@
+from data_pipeline.validators.record_validator import validate_records
 from data_pipeline.exporters.json_exporter import export_records_to_json
 from data_pipeline.collectors.openalex import search_papers as search_openalex
 from data_pipeline.collectors.semantic_scholar import search_papers as search_semantic_scholar
@@ -165,19 +166,24 @@ def run_pipeline(query, limit=5):
     )
 
     # 4. Deduplicate
-    unique_records = deduplicate_records(
-        normalized_records
+    unique_records =   deduplicate_records(normalized_records)
+    print(f"Unique records after deduplication: {len(unique_records)}")
+
+    valid_records, invalid_records =    validate_records(unique_records)
+
+    print(f"Valid records: {len(valid_records)}")
+    print(f"Invalid records: {len(invalid_records)}")
+
+    for invalid_record in invalid_records:
+        title = invalid_record["record"].get("title")
+        errors = invalid_record["errors"]
+
+        print(
+            f"Invalid record: {title or '[missing title]'} "
+            f"-> {', '.join(errors)}"
     )
 
-    print(
-        f"Unique records after deduplication: "
-        f"{len(unique_records)}"
-    )
-
-    # 5. Process
-    processed_records = process_records(
-        unique_records
-    )
+    processed_records = process_records(valid_records)
 
     print(
         f"Processed records: "

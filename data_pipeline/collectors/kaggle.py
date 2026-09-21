@@ -41,7 +41,7 @@ def search_datasets(query: str, limit: int = 10):
             abstract=dataset.get("subtitle") or "",
             year=None,
             doi=None,
-            url=dataset.get("ref"),
+            url=f"https://www.kaggle.com/datasets/{dataset.get('ref')}",
             source="kaggle",
         )
         normalized_dataset["record_type"] = "dataset"
