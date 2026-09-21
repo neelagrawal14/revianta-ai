@@ -1,3 +1,4 @@
+from data_pipeline.exporters.json_exporter import export_records_to_json
 from data_pipeline.collectors.openalex import search_papers as search_openalex
 from data_pipeline.collectors.semantic_scholar import search_papers as search_semantic_scholar
 from data_pipeline.collectors.arxiv import search_papers as search_arxiv
@@ -182,7 +183,14 @@ def run_pipeline(query, limit=5):
         f"Processed records: "
         f"{len(processed_records)}"
     )
+    output_path =          "data_pipeline/output/research_records.json"
 
+    export_records_to_json(
+        processed_records,
+        output_path,
+    )
+
+    print(f"Exported records to: {output_path}")
     print("\n==============================")
     print("PIPELINE COMPLETE")
     print("==============================")

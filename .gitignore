@@ -51,3 +51,6 @@ service-account.json
 *.db
 *.sqlite
 *.sqlite3
+
+# Data pipeline generated output
+data_pipeline/output/
