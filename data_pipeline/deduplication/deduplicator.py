@@ -5,7 +5,7 @@ def normalize_title(title):
     if not title:
         return ""
 
-    title = title.lower()
+    title = str(title).lower()
 
     title = re.sub(r"[^a-z0-9\s]", "", title)
 
@@ -22,8 +22,9 @@ def normalize_doi(doi):
 
     doi = doi.replace("https://doi.org/", "")
     doi = doi.replace("http://doi.org/", "")
+    doi = doi.replace("doi:", "")
 
-    return doi
+    return doi.strip()
 
 
 def normalize_url(url):
@@ -36,6 +37,10 @@ def normalize_url(url):
 def get_record_key(record):
     """
     Create a stable key for identifying duplicate records.
+
+    DOI is the strongest identifier.
+    Otherwise use normalized title + year when available.
+    Otherwise use normalized title.
     """
 
     doi = normalize_doi(record.get("doi"))
@@ -43,20 +48,33 @@ def get_record_key(record):
     if doi:
         return f"doi:{doi}"
 
+    title = normalize_title(record.get("title"))
+    year = record.get("year")
+
+    if title and year:
+        return f"title_year:{title}:{year}"
+
+    if title:
+        return f"title:{title}"
+
     url = normalize_url(record.get("url"))
 
     if url:
         return f"url:{url}"
 
-    title = normalize_title(record.get("title"))
-
-    if title:
-        return f"title:{title}"
-
     return None
 
 
 def deduplicate_records(records):
+    """
+    Remove duplicate research records.
+
+    Duplicate priority:
+    1. DOI
+    2. Normalized title + year
+    3. Normalized title
+    4. URL
+    """
 
     if not records:
         return []
