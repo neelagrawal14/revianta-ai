@@ -83,7 +83,7 @@ def normalize_records_for_pipeline(records):
             source=record.get("source"),
             record_type=record.get(
                 "record_type",
-                "research",
+                "paper",
             ),
         )
 
