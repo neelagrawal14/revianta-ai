@@ -1,0 +1,540 @@
+project_title,team_size,planned_timeline_months,technologies_used,dataset_availability,hardware_required,technical_difficulty,similar_project_awareness,research_availability,project_outcome
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,4.0,3.0,"MERN Stack, Python, CNN/Deep Learning, ResNet-50, EfficientNet-V3, PyTorch/timm, MongoDB, React.js, Node.js, Express.js, and ML-based recommendation algorithms.",available,no,3.0,seemed_unique,plenty,0
+Hostel connect,4.0,3.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",unavailable,no,3.0,few_exist,very_little,2
+IOT Based Smartwatch,5.0,2.0,kjhviulfdsg,available,yes,3.0,seemed_unique,plenty,0
+Smart obstacle avoidence car using ai and emergency alerts,6.0,4.0,"HTML , CSS",available,no,4.0,few_exist,plenty,1
+AI-GYM-COACH,5.0,1.0,Robotics iot coding,available,no,3.0,seemed_unique,some,1
+Ai Sport coaches,6.0,9.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",found_later,no,3.0,many_exist,very_little,2
+Nutri AI - an intelligent good recognition and personal diet recommendation system,4.0,2.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",found_later,unknown,4.0,few_exist,some,1
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,3.0,6.0,"Web development, artificial intelligence, fintech, security",self_built,yes,3.0,few_exist,some,0
+Design and development of automated silver leaf applicator,5.0,4.0,"Claude, SQL, eclipse",available,yes,4.0,seemed_unique,some,0
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,5.0,4.0,"Web development, artificial intelligence, fintech, security",self_built,no,3.0,seemed_unique,some,2
+Campus copilot,5.0,1.0,"Python, transformer, ocr, AWS textract, pytorch",available,no,4.0,few_exist,some,1
+Multu agent framework for ev,3.0,4.0,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",found_later,no,3.0,seemed_unique,plenty,1
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,5.0,3.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",unavailable,yes,3.0,seemed_unique,some,2
+AI lab manager,2.0,1.5,"React , Node Js , Electronics , Hardware , Software use",self_built,no,3.0,seemed_unique,some,1
+"Smart tourist companion, universal syntax",5.0,3.0,"MERN, LLM, APIs.",available,no,3.0,seemed_unique,plenty,0
+Hostel connect,2.0,3.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",unavailable,no,1.0,few_exist,very_little,1
+Additive manufacturing and digital technology,5.0,1.5,"Android studio, java, kotline, xml, java external libraries, etc",self_built,no,3.0,few_exist,some,1
+ClientIQ-CRM,6.0,3.0,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",self_built,yes,3.0,seemed_unique,some,0
+Smart obstacle avoidence car using ai and emergency alerts,5.0,2.5,"Machine learning, NLP",found_later,no,2.0,seemed_unique,some,0
+Hostel connect,3.0,3.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",available,yes,4.0,seemed_unique,some,1
+Ai-based secure authentication system for video conferencing using AI,1.0,4.0,Media pipe,self_built,yes,3.0,few_exist,some,0
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,2.0,9.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",available,unknown,3.0,few_exist,plenty,2
+Aura Alert Women Safety Platform,4.0,1.5,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",available,no,1.0,seemed_unique,some,0
+Parkinson detection,4.0,6.0,"Machine learning, NLP",available,no,4.0,seemed_unique,some,1
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,3.0,2.5,Python,unavailable,yes,3.0,few_exist,some,1
+Smart traffic system,4.0,1.5,Python,available,unknown,4.0,few_exist,some,0
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,6.0,2.0,"RAG, Langgraph, Fast API, LLMs, Vector DBs, Python",available,no,3.0,seemed_unique,plenty,0
+AI-GYM-COACH,1.0,8.0,Data analytics,self_built,no,4.0,few_exist,very_little,2
+Smart management,1.0,8.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",unavailable,yes,2.0,few_exist,some,0
+Hostel connect,2.0,5.0,"MERN Stack, Python, CNN/Deep Learning, ResNet-50, EfficientNet-V3, PyTorch/timm, MongoDB, React.js, Node.js, Express.js, and ML-based recommendation algorithms.",available,no,4.0,seemed_unique,plenty,1
+Smart traffic system,4.0,3.0,AI,self_built,yes,4.0,few_exist,some,1
+ocular burnout detector,4.0,4.0,"Deep learning (yolov8), raspberry Pi, electronics",available,yes,2.0,seemed_unique,plenty,0
+Flood - Connect,4.0,2.0,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",available,no,4.0,seemed_unique,some,1
+GHOST-NET  (Garrison Hardware for Off-grid Secure Tactical Networks),5.0,4.0,"Claude, SQL, eclipse",available,no,5.0,few_exist,unknown,1
+Additive manufacturing and digital technology,4.0,6.0,,found_later,yes,1.0,few_exist,some,0
+AI lab manager,2.0,5.0,"React , Node Js , Electronics , Hardware , Software use",self_built,yes,4.0,seemed_unique,plenty,0
+Live bus tracking system,3.0,1.0,"Deep learning (yolov8), raspberry Pi, electronics",unavailable,no,5.0,few_exist,some,0
+Theoretical question paper checking,4.0,3.0,"Python, OPenCV, YOLO, SQL",available,no,5.0,many_exist,some,1
+Fake news detection,3.0,6.0,Agentic ai,unavailable,yes,4.0,few_exist,some,0
+,2.0,1.5,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",available,no,2.0,few_exist,plenty,0
+Multu agent framework for ev,4.0,1.0,Data analytics,available,yes,3.0,seemed_unique,plenty,1
+ClientIQ-CRM,4.0,9.0,Media pipe,available,no,3.0,few_exist,unknown,1
+Live bus tracking system,4.0,8.0,ML,available,yes,1.0,seemed_unique,some,1
+Smartinfluence: An Influencer recommendation system,1.0,1.5,"Deep learning (yolov8), raspberry Pi, electronics",unavailable,yes,3.0,many_exist,some,2
+AI-GYM-COACH,1.0,2.0,Robotics iot coding,found_later,no,4.0,few_exist,some,0
+Hostel connect,5.0,2.5,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,unavailable,no,3.0,many_exist,some,0
+Campus copilot,2.0,6.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",available,yes,3.0,seemed_unique,some,0
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,2.0,1.5,3d printing,self_built,yes,3.0,few_exist,some,0
+Ayurgpt,6.0,6.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",unavailable,yes,3.0,few_exist,some,2
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,6.0,5.0,,self_built,no,3.0,few_exist,very_little,0
+AI-GYM-COACH,2.0,2.5,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",found_later,no,4.0,few_exist,plenty,2
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,4.0,3.0,Data analytics,self_built,yes,3.0,few_exist,some,0
+Aura Alert Women Safety Platform,2.0,8.0,Python,self_built,no,3.0,few_exist,some,1
+"Smart tourist companion, universal syntax",3.0,1.0,Data analytics,available,yes,3.0,few_exist,some,1
+Multu agent framework for ev,2.0,1.5,Python,self_built,no,4.0,many_exist,some,0
+Ai automated smart dustbin,3.0,4.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",self_built,no,2.0,seemed_unique,some,1
+Vertical take off and landing,4.0,5.0,ML,unavailable,no,4.0,seemed_unique,very_little,1
+AI lab manager,2.0,2.0,"Embedded Systems, LoRa Wireless Communication, Cryptography / Cybersecurity and more",found_later,no,4.0,seemed_unique,very_little,1
+Design and development of automated silver leaf applicator,4.0,4.0,"React , Node Js , Electronics , Hardware , Software use",found_later,yes,4.0,few_exist,plenty,0
+Smart obstacle avoidence car using ai and emergency alerts,5.0,1.0,kjhviulfdsg,self_built,no,3.0,few_exist,unknown,1
+Design and development of automated silver leaf applicator,4.0,3.0,Media pipe,unknown,yes,4.0,few_exist,plenty,1
+CRM software,1.0,2.0,"Arduino, MATLAB, SolidWorks, etc",self_built,yes,4.0,few_exist,some,2
+Ai-based secure authentication system for video conferencing using AI,4.0,2.0,"Deep learning (yolov8), raspberry Pi, electronics",available,yes,4.0,few_exist,some,0
+GHOST-NET  (Garrison Hardware for Off-grid Secure Tactical Networks),3.0,1.5,"React , Node Js , Electronics , Hardware , Software use",available,yes,2.0,not_sure,very_little,1
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,4.0,2.5,Explainable ai,available,yes,3.0,many_exist,plenty,1
+AI lab manager,5.0,1.5,AI,unavailable,yes,3.0,many_exist,very_little,2
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,1.0,2.0,"Arduino, AI, Python Language",found_later,yes,3.0,few_exist,plenty,1
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,6.0,9.0,Ardino uno,available,no,3.0,seemed_unique,some,0
+ClientIQ-CRM,5.0,6.0,Whips,self_built,no,5.0,few_exist,some,1
+De-Niggafication,6.0,1.5,"Android studio, java, kotline, xml, java external libraries, etc",found_later,no,4.0,unknown,some,1
+AI-GYM-COACH,6.0,8.0,Data analytics,self_built,no,4.0,few_exist,very_little,2
+Hostel connect,3.0,9.0,"Frontend: HTML, CSS, JavaScript  Backend: Python (Flask)  Database: MongoDB  Security: AES-256, SHA-256  Authentication: OTP Authentication",found_later,yes,3.0,few_exist,some,0
+AI lab manager,4.0,1.5,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",unavailable,yes,4.0,not_sure,some,0
+Finance literacy,3.0,2.0,ai ml,self_built,yes,1.0,seemed_unique,some,0
+Ai-based secure authentication system for video conferencing using AI,4.0,1.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",available,no,2.0,seemed_unique,some,0
+Smartinfluence: An Influencer recommendation system,5.0,9.0,"ML,AI",self_built,yes,4.0,seemed_unique,plenty,1
+Robotic legs using Arduino UNO and MPU 6050,3.0,9.0,"Python, streamlit framework, fast2sms",self_built,yes,4.0,few_exist,some,0
+Nutri AI - an intelligent good recognition and personal diet recommendation system,3.0,3.0,"MERN, LLM, APIs.",available,yes,4.0,few_exist,some,0
+Codemedic: Ai powered self healing software,6.0,5.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",self_built,no,5.0,many_exist,plenty,0
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,5.0,6.0,Python,unavailable,yes,3.0,few_exist,some,0
+Design and analysis of a 5-DOF Robotic arm,2.0,1.5,Whips,found_later,no,1.0,seemed_unique,plenty,1
+Robotic legs using Arduino UNO and MPU 6050,3.0,2.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,unavailable,no,4.0,seemed_unique,plenty,0
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,6.0,6.0,"Arduino, AI, Python Language",found_later,no,3.0,many_exist,some,0
+De-Niggafication,3.0,2.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",available,no,3.0,seemed_unique,some,0
+Smart obstacle avoidence car using ai and emergency alerts,5.0,2.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,self_built,yes,3.0,few_exist,very_little,0
+ClientIQ-CRM,4.0,1.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,self_built,yes,4.0,few_exist,some,0
+ocular burnout detector,4.0,2.0,"Android development , java , xampp, mysql , php",available,no,4.0,many_exist,some,0
+Multu agent framework for ev,2.0,6.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",found_later,no,2.0,seemed_unique,some,0
+Smart obstacle avoidence car using ai and emergency alerts,4.0,9.0,Explainable ai,available,no,2.0,few_exist,some,1
+Ai-based secure authentication system for video conferencing using AI,4.0,9.0,3D printing,self_built,yes,2.0,few_exist,plenty,0
+Codemedic: Ai powered self healing software,4.0,5.0,"Python, streamlit framework, fast2sms",found_later,no,1.0,seemed_unique,some,0
+Smart eye blinking system for safety,1.0,2.0,"Web development, artificial intelligence, fintech, security",available,no,5.0,not_sure,plenty,1
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,2.0,1.0,Ai-ml,unavailable,no,3.0,seemed_unique,unknown,0
+Smart eye blinking system for safety,4.0,2.5,,self_built,no,4.0,seemed_unique,very_little,2
+De-Niggafication,6.0,2.0,"Deep learning (yolov8), raspberry Pi, electronics",self_built,yes,4.0,few_exist,some,1
+Blind Nav : A wearable haptic device for navigation made for blind people,2.0,8.0,Python,available,yes,2.0,few_exist,plenty,1
+Ai automated smart dustbin,5.0,1.0,"Arduino, AI, Python Language",found_later,no,4.0,few_exist,some,1
+,4.0,9.0,Python,available,yes,3.0,seemed_unique,plenty,0
+Multu agent framework for ev,2.0,3.0,Media pipe,self_built,yes,4.0,few_exist,some,2
+"Smart tourist companion, universal syntax",3.0,9.0,"Arduino, MATLAB, SolidWorks, etc",unavailable,yes,3.0,seemed_unique,very_little,2
+,4.0,1.0,"MERN, LLM, APIs.",self_built,yes,4.0,not_sure,very_little,0
+Campus copilot,4.0,3.0,Python,self_built,unknown,4.0,few_exist,some,1
+De-Niggafication,2.0,9.0,"Deep learning (yolov8), raspberry Pi, electronics",self_built,no,4.0,few_exist,some,1
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,4.0,2.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",available,yes,5.0,seemed_unique,some,0
+Vertical take off and landing,6.0,2.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",unavailable,yes,3.0,many_exist,some,1
+Ai-based secure authentication system for video conferencing using AI,2.0,1.5,Python,available,yes,2.0,seemed_unique,plenty,1
+ClientIQ-CRM,5.0,3.0,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",self_built,no,4.0,few_exist,very_little,0
+khvijprehgr,2.0,3.0,"ECG sensor PPG sensor arduino, c++, html css js",available,yes,4.0,few_exist,some,1
+Theoretical question paper checking,2.0,2.0,Ai-ml,available,no,5.0,few_exist,some,0
+Campus copilot,4.0,1.5,Ardino uno,available,yes,2.0,seemed_unique,plenty,1
+Campus copilot,3.0,8.0,Media pipe,unavailable,yes,3.0,seemed_unique,very_little,2
+AI lab manager,3.0,3.0,"Embedded Systems, LoRa Wireless Communication, Cryptography / Cybersecurity and more",unavailable,no,1.0,few_exist,plenty,1
+Design and development of automated silver leaf applicator,3.0,4.0,"ML,AI",self_built,yes,2.0,few_exist,some,0
+De-Niggafication,4.0,3.0,Ardino uno,self_built,yes,4.0,few_exist,some,0
+ocular burnout detector,2.0,8.0,,available,no,4.0,few_exist,some,1
+Ayurgpt,2.0,1.0,kjhviulfdsg,unknown,yes,5.0,few_exist,very_little,1
+Multu agent framework for ev,6.0,2.0,"Deep learning (yolov8), raspberry Pi, electronics",found_later,no,5.0,seemed_unique,plenty,1
+Campus copilot,4.0,2.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",self_built,no,3.0,few_exist,some,0
+CRM software,2.0,6.0,"ML,AI",self_built,yes,5.0,few_exist,some,2
+Hostel connect,4.0,3.0,Whips,unavailable,yes,3.0,many_exist,some,2
+Hostel connect,3.0,2.5,3d printing,found_later,no,3.0,seemed_unique,some,0
+Design and analysis of a 5-DOF Robotic arm,3.0,8.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",available,yes,3.0,seemed_unique,very_little,1
+Aura Alert Women Safety Platform,2.0,4.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",self_built,yes,3.0,few_exist,some,1
+,3.0,1.0,"Python, streamlit framework, fast2sms",available,no,3.0,seemed_unique,some,1
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,4.0,4.0,"Claude, SQL, eclipse",self_built,no,3.0,many_exist,plenty,0
+Fake news detection,3.0,3.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",found_later,yes,5.0,many_exist,some,0
+Aura Alert Women Safety Platform,3.0,1.0,"Arduino, MATLAB, SolidWorks, etc",found_later,yes,3.0,many_exist,very_little,2
+Parkinson detection,1.0,8.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",available,no,3.0,few_exist,some,0
+Ayurgpt,6.0,8.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",found_later,yes,3.0,many_exist,very_little,2
+Multu agent framework for ev,3.0,3.0,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",available,no,3.0,few_exist,plenty,1
+,3.0,1.0,"Claude, SQL, eclipse",self_built,yes,4.0,few_exist,some,2
+Ai Sport coaches,4.0,5.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",available,yes,1.0,seemed_unique,some,1
+khvijprehgr,3.0,3.0,kjhviulfdsg,self_built,yes,1.0,few_exist,some,1
+Design and development of automated silver leaf applicator,5.0,1.5,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",self_built,yes,2.0,unknown,plenty,0
+Ai automated smart dustbin,5.0,1.5,3d printing,self_built,yes,4.0,few_exist,very_little,1
+Flood - Connect,5.0,4.0,"HTML , CSS",self_built,yes,5.0,not_sure,very_little,2
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,4.0,3.0,kjhviulfdsg,self_built,no,5.0,many_exist,some,2
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,4.0,6.0,"Python, Deep Learning, Computer Vision, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, Google Colab/Jupyter Notebook",found_later,yes,4.0,few_exist,plenty,1
+Enhancing financial decision-making: machine learning and AI-powered predictions and analysis,5.0,1.5,"React , Node Js , Electronics , Hardware , Software use",available,yes,3.0,many_exist,plenty,0
+Ai-based secure authentication system for video conferencing using AI,2.0,2.0,Data analytics,found_later,yes,3.0,seemed_unique,unknown,0
+Ai automated smart dustbin,5.0,4.0,Python,available,no,4.0,few_exist,very_little,0
+Smartinfluence: An Influencer recommendation system,5.0,6.0,Python,unavailable,no,4.0,many_exist,very_little,2
+Design and development of automated silver leaf applicator,6.0,1.5,Python,self_built,yes,5.0,seemed_unique,some,2
+Enhancing financial decision-making: machine learning and AI-powered predictions and analysis,4.0,2.5,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",unknown,no,3.0,few_exist,very_little,0
+Ai Sport coaches,3.0,9.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",self_built,yes,1.0,unknown,some,0
+AI lab manager,2.0,5.0,Media pipe,available,no,3.0,few_exist,plenty,0
+Hostel connect,3.0,2.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",unavailable,no,5.0,seemed_unique,some,2
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,4.0,6.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",self_built,no,5.0,few_exist,some,0
+Live bus tracking system,5.0,2.5,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",available,yes,4.0,few_exist,very_little,0
+Design and development of automated silver leaf applicator,2.0,8.0,Ardino uno,unavailable,no,4.0,few_exist,plenty,1
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,5.0,1.5,"Frontend: HTML, CSS, JavaScript  Backend: Python (Flask)  Database: MongoDB  Security: AES-256, SHA-256  Authentication: OTP Authentication",found_later,no,5.0,many_exist,some,0
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,2.0,1.5,"Machine learning, NLP",self_built,no,3.0,few_exist,very_little,2
+AI-GYM-COACH,4.0,9.0,,unavailable,no,4.0,not_sure,very_little,2
+Smartinfluence: An Influencer recommendation system,4.0,1.5,"React , Node Js , Electronics , Hardware , Software use",available,no,2.0,few_exist,plenty,1
+AI self healing tool,4.0,4.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",unavailable,yes,1.0,few_exist,some,1
+A Secure Finance Awareness System using Advanced AI,3.0,1.5,Explainable ai,available,no,3.0,few_exist,very_little,0
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,1.0,8.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",self_built,no,4.0,few_exist,some,0
+Finance literacy,5.0,6.0,Python,unknown,yes,2.0,seemed_unique,some,0
+Blind Nav : A wearable haptic device for navigation made for blind people,2.0,1.5,"HTML , CSS",self_built,no,2.0,few_exist,plenty,1
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,3.0,1.0,"Python, OPenCV, YOLO, SQL",available,no,2.0,unknown,plenty,0
+Ai automated smart dustbin,4.0,2.0,Agentic ai,self_built,no,5.0,few_exist,some,1
+Nutri AI - an intelligent good recognition and personal diet recommendation system,6.0,8.0,"Embedded Systems, LoRa Wireless Communication, Cryptography / Cybersecurity and more",available,yes,3.0,few_exist,plenty,2
+Hostel connect,1.0,8.0,Python,self_built,no,3.0,few_exist,very_little,1
+"Smart tourist companion, universal syntax",2.0,9.0,"RAG, Langgraph, Fast API, LLMs, Vector DBs, Python",self_built,yes,4.0,few_exist,some,0
+Parkinson detection,4.0,3.0,Media pipe,available,yes,3.0,seemed_unique,plenty,2
+khvijprehgr,4.0,5.0,Agentic ai,available,no,3.0,few_exist,some,1
+Hostel connect,6.0,4.0,Python,self_built,no,2.0,few_exist,plenty,0
+Finance literacy,5.0,3.0,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",available,no,3.0,many_exist,plenty,0
+Codemedic: Ai powered self healing software,5.0,8.0,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",available,yes,3.0,few_exist,very_little,2
+AI lab manager,2.0,1.0,"Arduino, MATLAB, SolidWorks, etc",found_later,no,3.0,few_exist,very_little,1
+Vertical take off and landing,5.0,9.0,"Deep learning (yolov8), raspberry Pi, electronics",available,yes,3.0,few_exist,very_little,0
+Vertical take off and landing,3.0,6.0,"Python, OPenCV, YOLO, SQL",available,no,4.0,few_exist,some,1
+Hostel connect,2.0,5.0,Ai-ml,self_built,yes,3.0,few_exist,plenty,0
+"Smart tourist companion, universal syntax",2.0,1.0,Robotics iot coding,self_built,yes,3.0,not_sure,some,2
+Additive manufacturing and digital technology,5.0,4.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",available,no,3.0,many_exist,plenty,1
+Ai automated smart dustbin,5.0,3.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",self_built,no,5.0,few_exist,very_little,0
+Ai Sport coaches,5.0,2.0,"Machine learning, NLP",available,no,1.0,seemed_unique,very_little,0
+CRM software,5.0,3.0,Agentic ai,available,no,5.0,seemed_unique,plenty,0
+Fake news detection,5.0,2.5,"MERN, LLM, APIs.",available,yes,5.0,few_exist,some,2
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,3.0,9.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",available,no,3.0,not_sure,very_little,0
+AI Based Resume Shortlisting system,4.0,1.5,"Android development , java , xampp, mysql , php",available,no,2.0,few_exist,some,1
+Hostel connect,2.0,9.0,ML,found_later,no,4.0,many_exist,very_little,2
+A Secure Finance Awareness System using Advanced AI,3.0,5.0,Python,self_built,no,3.0,few_exist,very_little,0
+ClientIQ-CRM,2.0,6.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",available,yes,1.0,few_exist,plenty,0
+ClientIQ-CRM,6.0,1.5,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",self_built,yes,3.0,few_exist,very_little,0
+Smart traffic system,6.0,6.0,"MERN, LLM, APIs.",available,yes,3.0,few_exist,some,2
+Smartinfluence: An Influencer recommendation system,6.0,6.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",found_later,no,2.0,seemed_unique,some,0
+Codemedic: Ai powered self healing software,4.0,5.0,"Android studio, java, kotline, xml, java external libraries, etc",available,no,4.0,few_exist,some,1
+AI self healing tool,3.0,2.0,"MERN, LLM, APIs.",self_built,no,3.0,seemed_unique,plenty,0
+A Secure Finance Awareness System using Advanced AI,4.0,5.0,Explainable ai,self_built,no,4.0,seemed_unique,some,1
+AI-GYM-COACH,3.0,8.0,"ML,AI",found_later,yes,3.0,unknown,plenty,0
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,5.0,6.0,"Web development, artificial intelligence, fintech, security",unavailable,no,4.0,many_exist,very_little,2
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,2.0,1.5,"Web development, artificial intelligence, fintech, security",found_later,yes,4.0,few_exist,very_little,2
+Vertical take off and landing,2.0,1.5,Python,self_built,yes,4.0,few_exist,some,2
+Design and development of automated silver leaf applicator,2.0,9.0,"Python, OPenCV, YOLO, SQL",self_built,yes,4.0,few_exist,plenty,0
+AI lab manager,3.0,5.0,Data analytics,available,yes,5.0,seemed_unique,some,1
+Live bus tracking system,2.0,8.0,"Deep learning (yolov8), raspberry Pi, electronics",self_built,yes,2.0,few_exist,some,0
+Nutri AI - an intelligent good recognition and personal diet recommendation system,3.0,1.0,"Deep learning (yolov8), raspberry Pi, electronics",self_built,yes,3.0,few_exist,some,1
+Live bus tracking system,1.0,3.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",self_built,yes,4.0,few_exist,some,1
+Nutri AI - an intelligent good recognition and personal diet recommendation system,4.0,1.5,"Python, Deep Learning, Computer Vision, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, Google Colab/Jupyter Notebook",available,yes,3.0,many_exist,some,2
+Codemedic: Ai powered self healing software,4.0,3.0,kjhviulfdsg,self_built,yes,4.0,not_sure,some,2
+GHOST-NET  (Garrison Hardware for Off-grid Secure Tactical Networks),3.0,8.0,"Android development , java , xampp, mysql , php",unavailable,no,3.0,seemed_unique,some,2
+Theoretical question paper checking,5.0,5.0,kjhviulfdsg,available,no,5.0,many_exist,some,0
+Robotic legs using Arduino UNO and MPU 6050,6.0,1.5,ai ml,self_built,no,3.0,few_exist,very_little,1
+Smartinfluence: An Influencer recommendation system,4.0,4.0,Explainable ai,available,yes,3.0,few_exist,some,0
+Blind Nav : A wearable haptic device for navigation made for blind people,5.0,2.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",available,no,4.0,seemed_unique,very_little,0
+Ayurgpt,6.0,5.0,"Android development , java , xampp, mysql , php",self_built,yes,3.0,few_exist,very_little,2
+AI lab manager,3.0,3.0,"Python, OPenCV, YOLO, SQL",self_built,yes,4.0,few_exist,plenty,0
+ClientIQ-CRM,3.0,6.0,"Arduino, AI, Python Language",available,yes,2.0,seemed_unique,plenty,0
+"Smart tourist companion, universal syntax",6.0,8.0,Explainable ai,available,no,3.0,few_exist,very_little,0
+Codemedic: Ai powered self healing software,4.0,9.0,Robotics iot coding,available,yes,5.0,few_exist,some,2
+Aura Alert Women Safety Platform,5.0,2.0,"Deep learning (yolov8), raspberry Pi, electronics",available,no,5.0,few_exist,some,0
+Smartinfluence: An Influencer recommendation system,3.0,2.0,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",available,yes,1.0,few_exist,plenty,1
+Hostel connect,1.0,9.0,"Python, OPenCV, YOLO, SQL",available,yes,4.0,few_exist,some,2
+Codemedic: Ai powered self healing software,5.0,8.0,Python,available,yes,5.0,not_sure,some,2
+Fake news detection,5.0,1.5,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",self_built,yes,3.0,few_exist,plenty,0
+Campus copilot,4.0,8.0,kjhviulfdsg,available,no,3.0,few_exist,some,1
+Codemedic: Ai powered self healing software,4.0,2.0,3d printing,unavailable,no,4.0,few_exist,some,1
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,5.0,2.5,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,unavailable,no,4.0,few_exist,plenty,0
+AI self healing tool,3.0,3.0,Data analytics,found_later,no,5.0,few_exist,plenty,0
+Codemedic: Ai powered self healing software,4.0,8.0,Robotics iot coding,unknown,no,4.0,seemed_unique,some,2
+Smart eye blinking system for safety,5.0,5.0,Explainable ai,available,yes,3.0,few_exist,very_little,1
+AI lab manager,4.0,4.0,"Deep learning (yolov8), raspberry Pi, electronics",available,yes,4.0,few_exist,some,0
+AI-GYM-COACH,6.0,6.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",self_built,yes,4.0,seemed_unique,some,2
+Codemedic: Ai powered self healing software,1.0,1.0,Ai-ml,unavailable,no,2.0,few_exist,very_little,1
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,6.0,8.0,Data analytics,found_later,yes,4.0,seemed_unique,very_little,2
+Blind Nav : A wearable haptic device for navigation made for blind people,4.0,2.0,Explainable ai,self_built,no,4.0,few_exist,plenty,0
+AI self healing tool,4.0,6.0,"Web development, artificial intelligence, fintech, security",available,yes,4.0,many_exist,very_little,1
+Smart eye blinking system for safety,1.0,6.0,,found_later,yes,5.0,many_exist,very_little,2
+Hostel connect,2.0,5.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",self_built,yes,5.0,not_sure,some,2
+Smartinfluence: An Influencer recommendation system,3.0,4.0,Ai-ml,available,yes,2.0,many_exist,plenty,0
+Additive manufacturing and digital technology,5.0,9.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",available,yes,2.0,many_exist,plenty,1
+Enhancing financial decision-making: machine learning and AI-powered predictions and analysis,6.0,2.0,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",unavailable,yes,2.0,many_exist,some,1
+AI Based Resume Shortlisting system,3.0,5.0,Python,available,yes,2.0,unknown,plenty,0
+IOT Based Smartwatch,4.0,6.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",self_built,yes,3.0,few_exist,very_little,1
+Fake news detection,6.0,5.0,Whips,found_later,no,3.0,few_exist,plenty,2
+Parkinson detection,3.0,9.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",unavailable,yes,3.0,seemed_unique,very_little,1
+"Smart tourist companion, universal syntax",5.0,1.0,"Python, Deep Learning, Computer Vision, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, Google Colab/Jupyter Notebook",available,no,3.0,few_exist,some,0
+Aura Alert Women Safety Platform,3.0,5.0,Agentic ai,available,no,4.0,few_exist,some,1
+Hostel connect,4.0,9.0,"Android studio, java, kotline, xml, java external libraries, etc",available,no,4.0,few_exist,some,0
+,5.0,5.0,3D printing,available,no,4.0,not_sure,very_little,0
+Smart management,4.0,1.0,"Machine learning, NLP",self_built,yes,3.0,few_exist,very_little,1
+ocular burnout detector,6.0,2.5,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",unavailable,no,3.0,not_sure,plenty,2
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,1.0,6.0,"MERN Stack, Python, CNN/Deep Learning, ResNet-50, EfficientNet-V3, PyTorch/timm, MongoDB, React.js, Node.js, Express.js, and ML-based recommendation algorithms.",available,no,4.0,seemed_unique,some,0
+,1.0,3.0,"React , Node Js , Electronics , Hardware , Software use",available,no,4.0,many_exist,some,0
+Nutri AI - an intelligent good recognition and personal diet recommendation system,1.0,5.0,Python,available,yes,5.0,not_sure,very_little,2
+Nutri AI - an intelligent good recognition and personal diet recommendation system,4.0,1.0,Ai-ml,self_built,yes,5.0,few_exist,plenty,2
+AI self healing tool,1.0,1.5,"Machine learning, NLP",unavailable,yes,3.0,seemed_unique,some,2
+Smartinfluence: An Influencer recommendation system,5.0,2.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",available,yes,3.0,seemed_unique,some,2
+GHOST-NET  (Garrison Hardware for Off-grid Secure Tactical Networks),5.0,1.0,"Android development , java , xampp, mysql , php",available,unknown,1.0,seemed_unique,plenty,2
+IOT Based Smartwatch,2.0,1.5,Ardino uno,available,no,4.0,few_exist,very_little,1
+Smartinfluence: An Influencer recommendation system,2.0,1.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",self_built,no,3.0,few_exist,very_little,0
+Hostel connect,3.0,1.5,"Python, streamlit framework, fast2sms",found_later,no,2.0,few_exist,some,0
+Aura Alert Women Safety Platform,5.0,1.5,3D printing,available,yes,1.0,seemed_unique,some,0
+Ayurgpt,2.0,6.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",self_built,yes,3.0,few_exist,some,1
+Flood - Connect,2.0,1.0,Media pipe,available,no,4.0,many_exist,some,1
+khvijprehgr,4.0,2.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",found_later,no,4.0,few_exist,very_little,0
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,3.0,5.0,"Android development , java , xampp, mysql , php",available,yes,4.0,seemed_unique,some,0
+Smart obstacle avoidence car using ai and emergency alerts,4.0,1.5,ai ml,self_built,no,3.0,few_exist,some,0
+Smart eye blinking system for safety,4.0,5.0,"Android studio, java, kotline, xml, java external libraries, etc",unavailable,yes,4.0,few_exist,some,1
+Ai-based secure authentication system for video conferencing using AI,4.0,1.5,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",unavailable,no,4.0,few_exist,some,0
+khvijprehgr,3.0,2.5,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",available,unknown,4.0,seemed_unique,some,1
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,3.0,3.0,"Machine learning, NLP",available,no,3.0,few_exist,plenty,2
+Nutri AI - an intelligent good recognition and personal diet recommendation system,4.0,2.5,"Python, streamlit framework, fast2sms",found_later,no,4.0,seemed_unique,some,1
+Multu agent framework for ev,3.0,6.0,"MERN, LLM, APIs.",available,no,3.0,seemed_unique,plenty,0
+Ayurgpt,6.0,1.0,Agentic ai,available,no,4.0,seemed_unique,some,0
+Nutri AI - an intelligent good recognition and personal diet recommendation system,5.0,6.0,"MERN Stack, Python, CNN/Deep Learning, ResNet-50, EfficientNet-V3, PyTorch/timm, MongoDB, React.js, Node.js, Express.js, and ML-based recommendation algorithms.",available,yes,4.0,few_exist,some,0
+Parkinson detection,3.0,2.5,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",available,yes,4.0,few_exist,unknown,1
+Nutri AI - an intelligent good recognition and personal diet recommendation system,4.0,1.0,"Embedded Systems, LoRa Wireless Communication, Cryptography / Cybersecurity and more",found_later,no,4.0,seemed_unique,some,0
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,3.0,3.0,ML,available,no,2.0,seemed_unique,some,0
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,4.0,5.0,"Python, transformer, ocr, AWS textract, pytorch",self_built,yes,4.0,seemed_unique,very_little,0
+Smart eye blinking system for safety,6.0,8.0,,unavailable,yes,3.0,not_sure,very_little,2
+AI Based Resume Shortlisting system,3.0,8.0,AI,available,no,4.0,few_exist,some,1
+Parkinson detection,1.0,6.0,"Python, Deep Learning, Computer Vision, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, Google Colab/Jupyter Notebook",available,no,5.0,few_exist,some,0
+Design and analysis of a 5-DOF Robotic arm,5.0,4.0,Whips,available,yes,4.0,few_exist,plenty,0
+Theoretical question paper checking,2.0,2.5,"Deep learning (yolov8), raspberry Pi, electronics",found_later,yes,2.0,seemed_unique,some,0
+De-Niggafication,4.0,1.5,Media pipe,self_built,no,5.0,few_exist,some,1
+AI-GYM-COACH,2.0,4.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",found_later,no,3.0,seemed_unique,some,0
+Ayurgpt,1.0,9.0,"Android development , java , xampp, mysql , php",self_built,no,4.0,many_exist,some,2
+Flood - Connect,3.0,4.0,3d printing,self_built,no,4.0,seemed_unique,some,1
+Live bus tracking system,2.0,3.0,Ai-ml,available,no,5.0,few_exist,very_little,0
+Ai-based secure authentication system for video conferencing using AI,2.0,2.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",self_built,no,4.0,few_exist,some,0
+Hostel connect,1.0,9.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",found_later,no,5.0,few_exist,very_little,2
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,4.0,1.0,"Deep learning (yolov8), raspberry Pi, electronics",found_later,no,2.0,few_exist,some,0
+khvijprehgr,3.0,2.5,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",available,no,4.0,few_exist,some,0
+Hostel connect,4.0,3.0,"Python, OPenCV, YOLO, SQL",self_built,yes,5.0,few_exist,some,2
+Robotic legs using Arduino UNO and MPU 6050,4.0,4.0,3d printing,self_built,no,3.0,few_exist,some,0
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,5.0,3.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",available,no,4.0,few_exist,some,0
+Theoretical question paper checking,4.0,8.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",available,no,3.0,few_exist,some,0
+Flood - Connect,4.0,4.0,"Embedded Systems, LoRa Wireless Communication, Cryptography / Cybersecurity and more",available,yes,2.0,few_exist,plenty,0
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,3.0,2.5,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",available,yes,3.0,seemed_unique,some,0
+AI-GYM-COACH,4.0,8.0,Media pipe,found_later,yes,1.0,few_exist,some,0
+Smart management,3.0,8.0,3d printing,self_built,no,2.0,few_exist,some,1
+Codemedic: Ai powered self healing software,4.0,3.0,"Arduino, MATLAB, SolidWorks, etc",unavailable,no,5.0,few_exist,some,1
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,2.0,1.5,AI,unavailable,no,5.0,unknown,some,0
+A Secure Finance Awareness System using Advanced AI,3.0,4.0,"MERN Stack, Python, CNN/Deep Learning, ResNet-50, EfficientNet-V3, PyTorch/timm, MongoDB, React.js, Node.js, Express.js, and ML-based recommendation algorithms.",self_built,yes,3.0,seemed_unique,plenty,0
+Ai-based secure authentication system for video conferencing using AI,3.0,1.0,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",found_later,yes,5.0,seemed_unique,very_little,1
+GHOST-NET  (Garrison Hardware for Off-grid Secure Tactical Networks),3.0,6.0,"Python, Deep Learning, Computer Vision, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, Google Colab/Jupyter Notebook",self_built,no,4.0,few_exist,plenty,0
+Multu agent framework for ev,2.0,6.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",self_built,no,3.0,few_exist,some,1
+Blind Nav : A wearable haptic device for navigation made for blind people,4.0,2.5,Data analytics,available,no,4.0,few_exist,very_little,0
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,3.0,1.0,"Android development , java , xampp, mysql , php",available,yes,2.0,few_exist,plenty,2
+Ai Sport coaches,3.0,5.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",self_built,no,3.0,seemed_unique,very_little,1
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,3.0,5.0,Media pipe,available,no,3.0,seemed_unique,some,0
+Blind Nav : A wearable haptic device for navigation made for blind people,3.0,2.5,"Deep learning (yolov8), raspberry Pi, electronics",self_built,no,2.0,many_exist,some,0
+Flood - Connect,4.0,5.0,"HTML , CSS",found_later,yes,4.0,few_exist,some,2
+Codemedic: Ai powered self healing software,3.0,8.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",self_built,no,4.0,few_exist,some,2
+Live bus tracking system,6.0,2.5,Robotics iot coding,available,yes,1.0,few_exist,very_little,1
+Finance literacy,2.0,5.0,"React , Node Js , Electronics , Hardware , Software use",self_built,yes,4.0,seemed_unique,some,2
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,2.0,1.5,AI,unavailable,yes,5.0,seemed_unique,very_little,2
+Hostel connect,4.0,2.0,"Frontend: HTML, CSS, JavaScript  Backend: Python (Flask)  Database: MongoDB  Security: AES-256, SHA-256  Authentication: OTP Authentication",available,yes,5.0,few_exist,some,0
+AI self healing tool,6.0,6.0,3D printing,self_built,no,5.0,many_exist,plenty,1
+Ayurgpt,5.0,8.0,,available,yes,5.0,few_exist,some,0
+IOT Based Smartwatch,3.0,3.0,"Claude, SQL, eclipse",found_later,yes,3.0,few_exist,some,1
+Multu agent framework for ev,4.0,4.0,3d printing,available,yes,4.0,seemed_unique,plenty,2
+Smart management,3.0,6.0,Explainable ai,available,yes,2.0,many_exist,some,1
+ClientIQ-CRM,4.0,1.5,"Python, streamlit framework, fast2sms",available,no,4.0,seemed_unique,very_little,2
+Hostel connect,6.0,1.5,"Arduino, MATLAB, SolidWorks, etc",available,no,3.0,few_exist,some,0
+Parkinson detection,5.0,4.0,"ECG sensor PPG sensor arduino, c++, html css js",unavailable,yes,3.0,many_exist,some,1
+Smartinfluence: An Influencer recommendation system,6.0,9.0,"ML,AI",unknown,yes,4.0,few_exist,some,1
+Vertical take off and landing,1.0,4.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,available,yes,3.0,few_exist,very_little,0
+Smart eye blinking system for safety,4.0,1.5,Media pipe,found_later,no,5.0,few_exist,some,1
+Design and development of automated silver leaf applicator,2.0,1.5,Data analytics,available,yes,3.0,seemed_unique,some,1
+Smart obstacle avoidence car using ai and emergency alerts,4.0,1.5,"Machine learning, NLP",self_built,yes,5.0,seemed_unique,some,0
+Smart obstacle avoidence car using ai and emergency alerts,6.0,9.0,Data analytics,unavailable,no,4.0,not_sure,some,0
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,4.0,2.0,ML,found_later,no,1.0,few_exist,some,0
+Campus copilot,5.0,1.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",self_built,yes,5.0,seemed_unique,very_little,2
+Fake news detection,5.0,4.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",self_built,no,2.0,few_exist,very_little,0
+Live bus tracking system,4.0,2.5,"Python, transformer, ocr, AWS textract, pytorch",unavailable,no,4.0,many_exist,very_little,2
+Finance literacy,3.0,2.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",available,yes,4.0,few_exist,some,0
+AI self healing tool,3.0,6.0,AI,available,no,3.0,few_exist,some,0
+AI lab manager,5.0,5.0,3D printing,self_built,no,1.0,few_exist,some,0
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,3.0,2.5,"React , Node Js , Electronics , Hardware , Software use",found_later,no,4.0,few_exist,some,0
+Smart eye blinking system for safety,6.0,3.0,Ardino uno,found_later,yes,4.0,seemed_unique,some,0
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,4.0,6.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",unavailable,no,5.0,seemed_unique,plenty,2
+Smartinfluence: An Influencer recommendation system,4.0,5.0,"Python, transformer, ocr, AWS textract, pytorch",unavailable,no,2.0,few_exist,very_little,1
+AI lab manager,5.0,6.0,3d printing,found_later,yes,5.0,many_exist,very_little,0
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,3.0,3.0,Python,self_built,yes,4.0,seemed_unique,plenty,0
+Flood - Connect,4.0,2.0,"HTML , CSS",self_built,yes,3.0,many_exist,some,2
+Campus copilot,3.0,1.0,ai ml,found_later,yes,4.0,seemed_unique,plenty,0
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,3.0,4.0,"Frontend: HTML, CSS, JavaScript  Backend: Python (Flask)  Database: MongoDB  Security: AES-256, SHA-256  Authentication: OTP Authentication",found_later,no,5.0,seemed_unique,some,0
+ClientIQ-CRM,3.0,5.0,"Android development , java , xampp, mysql , php",self_built,yes,5.0,seemed_unique,plenty,0
+Live bus tracking system,5.0,1.0,,available,no,3.0,many_exist,some,1
+Blind Nav : A wearable haptic device for navigation made for blind people,4.0,6.0,Python,self_built,yes,2.0,few_exist,some,0
+De-Niggafication,3.0,1.0,"Android studio, java, kotline, xml, java external libraries, etc",self_built,yes,2.0,few_exist,some,1
+Finance literacy,6.0,1.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",self_built,yes,2.0,seemed_unique,some,0
+Ai-based secure authentication system for video conferencing using AI,1.0,6.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",self_built,yes,3.0,seemed_unique,plenty,0
+khvijprehgr,1.0,2.0,Explainable ai,available,yes,1.0,seemed_unique,some,1
+ocular burnout detector,4.0,8.0,AI,available,yes,4.0,few_exist,some,0
+Theoretical question paper checking,2.0,1.5,"Web development, artificial intelligence, fintech, security",unavailable,no,2.0,few_exist,very_little,0
+De-Niggafication,2.0,6.0,Ardino uno,self_built,yes,4.0,few_exist,some,0
+Robotic legs using Arduino UNO and MPU 6050,4.0,3.0,"ML,AI",available,no,3.0,few_exist,plenty,0
+Ai-based secure authentication system for video conferencing using AI,5.0,2.5,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",self_built,yes,4.0,not_sure,very_little,1
+Smart obstacle avoidence car using ai and emergency alerts,4.0,4.0,"Claude, SQL, eclipse",unavailable,no,2.0,seemed_unique,some,1
+GHOST-NET  (Garrison Hardware for Off-grid Secure Tactical Networks),4.0,2.0,"Embedded Systems, LoRa Wireless Communication, Cryptography / Cybersecurity and more",unavailable,yes,1.0,few_exist,some,0
+Smart eye blinking system for safety,3.0,4.0,ai ml,found_later,yes,2.0,many_exist,some,1
+Hostel connect,4.0,6.0,"Android studio, java, kotline, xml, java external libraries, etc",available,yes,3.0,few_exist,very_little,0
+Design and analysis of a 5-DOF Robotic arm,5.0,9.0,ai ml,self_built,no,3.0,seemed_unique,some,1
+IOT Based Smartwatch,3.0,4.0,"HTML , CSS",self_built,yes,2.0,few_exist,some,0
+Additive manufacturing and digital technology,3.0,5.0,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",available,no,3.0,few_exist,some,0
+Campus copilot,4.0,1.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,unavailable,yes,4.0,seemed_unique,very_little,2
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,3.0,5.0,"Deep learning (yolov8), raspberry Pi, electronics",available,no,4.0,unknown,some,0
+AI lab manager,4.0,2.0,AI,self_built,yes,3.0,few_exist,some,1
+Codemedic: Ai powered self healing software,5.0,4.0,"Python, OPenCV, YOLO, SQL",self_built,no,3.0,seemed_unique,some,1
+"Smart tourist companion, universal syntax",4.0,2.5,Robotics iot coding,available,no,5.0,not_sure,very_little,2
+Blind Nav : A wearable haptic device for navigation made for blind people,3.0,2.0,Robotics iot coding,unavailable,no,4.0,seemed_unique,some,1
+AI self healing tool,2.0,5.0,"Arduino, AI, Python Language",found_later,no,4.0,many_exist,unknown,1
+Codemedic: Ai powered self healing software,4.0,6.0,"Arduino, MATLAB, SolidWorks, etc",self_built,yes,2.0,many_exist,very_little,0
+Theoretical question paper checking,5.0,1.0,"HTML , CSS",self_built,no,4.0,seemed_unique,some,0
+Flood - Connect,3.0,3.0,ML,self_built,no,4.0,few_exist,plenty,0
+Multu agent framework for ev,5.0,1.0,"Python, Deep Learning, Computer Vision, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, Google Colab/Jupyter Notebook",unavailable,no,5.0,few_exist,plenty,1
+Multu agent framework for ev,1.0,2.5,3d printing,available,yes,4.0,many_exist,very_little,2
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,4.0,6.0,"MERN, LLM, APIs.",available,yes,5.0,few_exist,some,0
+Additive manufacturing and digital technology,4.0,6.0,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",self_built,no,3.0,seemed_unique,some,0
+Multu agent framework for ev,5.0,4.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",available,no,4.0,few_exist,some,2
+Hostel connect,3.0,6.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",unavailable,no,3.0,few_exist,some,0
+Flood - Connect,5.0,4.0,"Web development, artificial intelligence, fintech, security",available,no,3.0,few_exist,plenty,0
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,4.0,6.0,"Python, OPenCV, YOLO, SQL",available,no,3.0,few_exist,some,0
+Fake news detection,6.0,8.0,kjhviulfdsg,unavailable,yes,3.0,seemed_unique,some,1
+Nutri AI - an intelligent good recognition and personal diet recommendation system,4.0,1.0,3D printing,self_built,yes,5.0,few_exist,some,1
+Ai Sport coaches,5.0,1.5,"Python, streamlit framework, fast2sms",found_later,no,4.0,few_exist,plenty,1
+AI-GYM-COACH,2.0,6.0,Whips,self_built,no,4.0,few_exist,some,0
+Vertical take off and landing,1.0,2.5,Python,unavailable,no,4.0,few_exist,very_little,2
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,4.0,6.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",self_built,yes,3.0,few_exist,unknown,0
+ocular burnout detector,1.0,1.5,kjhviulfdsg,self_built,no,2.0,few_exist,plenty,1
+ocular burnout detector,6.0,5.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",unavailable,no,5.0,many_exist,very_little,2
+Ayurgpt,4.0,9.0,"Python, transformer, ocr, AWS textract, pytorch",self_built,yes,3.0,few_exist,very_little,1
+Theoretical question paper checking,4.0,4.0,Python,self_built,yes,3.0,few_exist,some,1
+Design and development of automated silver leaf applicator,2.0,5.0,"Web development, artificial intelligence, fintech, security",unavailable,yes,4.0,few_exist,plenty,0
+IOT Based Smartwatch,3.0,8.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",available,yes,4.0,few_exist,some,0
+AI Based Resume Shortlisting system,3.0,1.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,found_later,no,5.0,seemed_unique,some,1
+AI lab manager,2.0,5.0,"Android studio, java, kotline, xml, java external libraries, etc",unknown,yes,4.0,seemed_unique,very_little,1
+Ai automated smart dustbin,3.0,3.0,"Claude, SQL, eclipse",self_built,no,2.0,few_exist,some,0
+Robotic legs using Arduino UNO and MPU 6050,1.0,8.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",available,yes,4.0,few_exist,plenty,0
+Parkinson detection,4.0,2.0,ML,self_built,yes,4.0,few_exist,very_little,0
+Flood - Connect,4.0,4.0,"Python, OPenCV, YOLO, SQL",found_later,no,4.0,few_exist,plenty,1
+Design and development of automated silver leaf applicator,3.0,1.0,"Python, OPenCV, YOLO, SQL",found_later,yes,3.0,many_exist,some,2
+Finance literacy,4.0,1.5,"Python, transformer, ocr, AWS textract, pytorch",found_later,no,3.0,few_exist,very_little,0
+Fake news detection,6.0,2.0,"Claude, SQL, eclipse",found_later,no,3.0,seemed_unique,very_little,1
+Ayurgpt,3.0,2.5,"Arduino, MATLAB, SolidWorks, etc",found_later,no,3.0,few_exist,some,0
+AI self healing tool,6.0,8.0,Whips,self_built,yes,4.0,seemed_unique,plenty,0
+Vertical take off and landing,4.0,5.0,"Android development , java , xampp, mysql , php",self_built,yes,3.0,many_exist,some,2
+Fake news detection,4.0,4.0,Python,self_built,no,4.0,few_exist,plenty,0
+Hostel connect,5.0,1.0,ai ml,unknown,yes,3.0,few_exist,some,1
+khvijprehgr,4.0,2.0,Ardino uno,available,yes,4.0,few_exist,some,0
+CRM software,6.0,3.0,"Arduino, MATLAB, SolidWorks, etc",found_later,yes,3.0,seemed_unique,some,2
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,6.0,2.0,"Python, OPenCV, YOLO, SQL",available,yes,3.0,seemed_unique,some,1
+AI self healing tool,4.0,4.0,3D printing,unavailable,yes,5.0,many_exist,very_little,2
+Design and development of automated silver leaf applicator,5.0,3.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",unavailable,yes,3.0,seemed_unique,unknown,1
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,3.0,8.0,"RAG, Langgraph, Fast API, LLMs, Vector DBs, Python",available,yes,5.0,few_exist,some,1
+Smart eye blinking system for safety,6.0,4.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",self_built,no,4.0,few_exist,some,1
+Parkinson detection,2.0,8.0,Media pipe,self_built,no,4.0,few_exist,very_little,2
+khvijprehgr,2.0,3.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",unavailable,no,3.0,few_exist,some,0
+AI Based Resume Shortlisting system,4.0,3.0,"MERN Stack, Python, CNN/Deep Learning, ResNet-50, EfficientNet-V3, PyTorch/timm, MongoDB, React.js, Node.js, Express.js, and ML-based recommendation algorithms.",available,no,5.0,few_exist,some,0
+AI lab manager,5.0,1.0,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",found_later,yes,2.0,seemed_unique,plenty,1
+Design and analysis of a 5-DOF Robotic arm,5.0,3.0,"Arduino, MATLAB, SolidWorks, etc",self_built,yes,5.0,many_exist,very_little,2
+Smart management,1.0,8.0,Whips,self_built,yes,2.0,few_exist,plenty,1
+Campus copilot,4.0,6.0,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",found_later,no,3.0,seemed_unique,some,1
+Vertical take off and landing,6.0,4.0,Whips,found_later,no,5.0,many_exist,very_little,2
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,3.0,2.0,"Python, transformer, ocr, AWS textract, pytorch",available,no,3.0,few_exist,some,1
+Fake news detection,5.0,1.0,Agentic ai,available,no,3.0,few_exist,some,1
+Smart traffic system,3.0,1.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",self_built,yes,4.0,few_exist,very_little,1
+,2.0,1.0,"Python, Deep Learning, Computer Vision, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, Google Colab/Jupyter Notebook",self_built,yes,2.0,few_exist,some,1
+Ayurgpt,2.0,6.0,,available,yes,4.0,few_exist,plenty,0
+Ai-based secure authentication system for video conferencing using AI,1.0,2.5,"React , Node Js , Electronics , Hardware , Software use",self_built,no,4.0,few_exist,some,2
+Ayurgpt,2.0,4.0,Agentic ai,found_later,no,5.0,few_exist,some,0
+Codemedic: Ai powered self healing software,3.0,9.0,Ai-ml,available,no,3.0,many_exist,some,1
+AI lab manager,3.0,8.0,Ardino uno,found_later,no,4.0,few_exist,some,1
+AI self healing tool,2.0,1.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",available,no,2.0,few_exist,some,0
+Enhancing financial decision-making: machine learning and AI-powered predictions and analysis,6.0,1.0,Whips,unavailable,no,3.0,few_exist,some,0
+Design and analysis of a 5-DOF Robotic arm,2.0,4.0,"RAG, Langgraph, Fast API, LLMs, Vector DBs, Python",self_built,yes,3.0,few_exist,very_little,2
+Ai-based secure authentication system for video conferencing using AI,2.0,1.0,"Python, transformer, ocr, AWS textract, pytorch",unavailable,no,4.0,many_exist,plenty,0
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,1.0,4.0,"Web development, artificial intelligence, fintech, security",self_built,no,3.0,not_sure,some,2
+Smart obstacle avoidence car using ai and emergency alerts,4.0,4.0,ai ml,self_built,yes,3.0,seemed_unique,some,0
+Ai Sport coaches,2.0,3.0,"Python, streamlit framework, fast2sms",unavailable,yes,4.0,many_exist,some,1
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,4.0,9.0,"Python, transformer, ocr, AWS textract, pytorch",found_later,yes,3.0,few_exist,plenty,1
+Smart management,6.0,9.0,"Python, Deep Learning, Computer Vision, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, Google Colab/Jupyter Notebook",self_built,yes,3.0,seemed_unique,some,0
+Smart management,5.0,2.0,Python,available,no,4.0,few_exist,some,0
+,4.0,9.0,"RAG, Langgraph, Fast API, LLMs, Vector DBs, Python",self_built,no,2.0,few_exist,some,2
+Live bus tracking system,6.0,2.0,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",available,yes,4.0,seemed_unique,plenty,1
+Robotic legs using Arduino UNO and MPU 6050,3.0,2.5,3d printing,available,no,3.0,seemed_unique,some,1
+AI self healing tool,3.0,3.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,found_later,yes,3.0,many_exist,some,0
+Campus copilot,4.0,3.0,ML,unavailable,no,4.0,seemed_unique,plenty,1
+Smart eye blinking system for safety,5.0,4.0,"Arduino, AI, Python Language",unavailable,no,5.0,seemed_unique,some,0
+Smart obstacle avoidence car using ai and emergency alerts,3.0,8.0,"MERN, LLM, APIs.",self_built,yes,5.0,seemed_unique,plenty,0
+Parkinson detection,4.0,8.0,Agentic ai,found_later,no,2.0,few_exist,some,2
+Codemedic: Ai powered self healing software,6.0,8.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",found_later,no,2.0,many_exist,plenty,0
+CRM software,5.0,4.0,"Arduino, AI, Python Language",found_later,no,4.0,few_exist,some,1
+Campus copilot,4.0,2.5,"Frontend: HTML, CSS, JavaScript  Backend: Python (Flask)  Database: MongoDB  Security: AES-256, SHA-256  Authentication: OTP Authentication",self_built,no,3.0,few_exist,some,0
+Design and development of automated silver leaf applicator,5.0,9.0,"Python, OPenCV, YOLO, SQL",self_built,yes,3.0,few_exist,some,0
+Nutri AI - an intelligent good recognition and personal diet recommendation system,4.0,8.0,"Python, Deep Learning, Computer Vision, TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn, Google Colab/Jupyter Notebook",unavailable,yes,5.0,few_exist,very_little,2
+Smart traffic system,6.0,6.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",available,no,5.0,seemed_unique,some,1
+AI lab manager,2.0,1.5,"Python, OPenCV, YOLO, SQL",self_built,no,3.0,few_exist,some,0
+Theoretical question paper checking,2.0,3.0,Agentic ai,unavailable,no,5.0,many_exist,very_little,1
+ClientIQ-CRM,5.0,9.0,,available,no,4.0,few_exist,plenty,0
+"Smart tourist companion, universal syntax",3.0,4.0,"Machine learning, NLP",available,yes,3.0,seemed_unique,some,0
+Smart management,3.0,3.0,,available,no,4.0,few_exist,some,1
+Fake news detection,3.0,2.0,"HTML , CSS",unavailable,no,4.0,few_exist,some,0
+Robotic legs using Arduino UNO and MPU 6050,4.0,5.0,"Web development, artificial intelligence, fintech, security",available,yes,3.0,not_sure,some,2
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,5.0,2.5,"React , Node Js , Electronics , Hardware , Software use",self_built,yes,3.0,few_exist,some,1
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,5.0,4.0,kjhviulfdsg,found_later,no,4.0,few_exist,some,2
+Ayurgpt,3.0,1.5,"Python, streamlit framework, fast2sms",available,yes,4.0,few_exist,very_little,0
+AI self healing tool,4.0,3.0,"Python, OPenCV, YOLO, SQL",found_later,no,3.0,few_exist,some,1
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,4.0,1.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",unavailable,yes,3.0,few_exist,plenty,0
+AI Based Resume Shortlisting system,2.0,4.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,self_built,no,2.0,seemed_unique,some,0
+Ai-based secure authentication system for video conferencing using AI,5.0,2.5,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",self_built,no,3.0,seemed_unique,plenty,1
+AI self healing tool,5.0,3.0,ML,available,no,5.0,not_sure,very_little,0
+AI lab manager,4.0,6.0,AI,self_built,yes,3.0,few_exist,some,2
+Enhancing financial decision-making: machine learning and AI-powered predictions and analysis,2.0,9.0,Python,self_built,yes,3.0,few_exist,some,1
+A Secure Finance Awareness System using Advanced AI,5.0,6.0,"Deep learning (yolov8), raspberry Pi, electronics",unavailable,yes,4.0,seemed_unique,some,1
+Smart eye blinking system for safety,5.0,1.5,Media pipe,unavailable,yes,4.0,few_exist,some,0
+A Secure Finance Awareness System using Advanced AI,3.0,6.0,ML,available,yes,3.0,seemed_unique,plenty,0
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,2.0,8.0,Ai-ml,available,no,4.0,unknown,some,0
+Ai automated smart dustbin,3.0,9.0,Python,available,no,1.0,seemed_unique,some,0
+ocular burnout detector,5.0,8.0,"RAG, Langgraph, Fast API, LLMs, Vector DBs, Python",self_built,no,4.0,many_exist,some,1
+"Smart tourist companion, universal syntax",4.0,2.5,"Arduino, MATLAB, SolidWorks, etc",found_later,yes,2.0,seemed_unique,plenty,2
+khvijprehgr,3.0,1.0,Python,available,no,5.0,seemed_unique,unknown,1
+Multimodal ECG-PPG Biometric Authentication System for Secure Access Control.,5.0,6.0,Data analytics,found_later,no,2.0,few_exist,some,1
+Smart traffic system,4.0,3.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",unavailable,no,3.0,seemed_unique,plenty,0
+Codemedic: Ai powered self healing software,1.0,6.0,"Designing softwares, SCARA-DELTA robo, 3D printing, Compressor, suction cups",self_built,yes,4.0,few_exist,some,2
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,5.0,9.0,"ECG sensor PPG sensor arduino, c++, html css js",unavailable,no,2.0,few_exist,plenty,0
+"Smart tourist companion, universal syntax",2.0,1.5,"Frontend: HTML, CSS, JavaScript  Backend: Python (Flask)  Database: MongoDB  Security: AES-256, SHA-256  Authentication: OTP Authentication",available,yes,3.0,seemed_unique,some,0
+Finance literacy,5.0,4.0,"xiao-esp32c3 , IR LED and reciever , 150mah lipo battery",available,unknown,2.0,unknown,plenty,1
+CRM software,2.0,9.0,,available,no,3.0,few_exist,some,0
+Flood - Connect,2.0,3.0,"Deep learning (yolov8), raspberry Pi, electronics",available,no,3.0,seemed_unique,plenty,1
+Smart traffic system,4.0,8.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,available,no,4.0,few_exist,very_little,1
+Fruit Disease Diagnosis and Health Monitoring Using Computer Vision,4.0,9.0,"Android development , java , xampp, mysql , php",available,yes,4.0,seemed_unique,very_little,0
+AI Based Resume Shortlisting system,2.0,9.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",self_built,yes,5.0,few_exist,very_little,1
+Codemedic: Ai powered self healing software,3.0,1.5,Python,unavailable,no,5.0,few_exist,some,2
+Aura Alert Women Safety Platform,3.0,4.0,"Claude, SQL, eclipse",available,yes,4.0,seemed_unique,plenty,0
+Multu agent framework for ev,4.0,5.0,"Arduino, AI, Python Language",available,no,5.0,seemed_unique,some,0
+Blind Nav : A wearable haptic device for navigation made for blind people,5.0,4.0,3d printing,unknown,no,5.0,few_exist,plenty,1
+Blind Nav : A wearable haptic device for navigation made for blind people,4.0,9.0,"Machine learning, NLP",self_built,no,4.0,seemed_unique,some,0
+Finance literacy,3.0,1.0,"MERN Stack, Python, CNN/Deep Learning, ResNet-50, EfficientNet-V3, PyTorch/timm, MongoDB, React.js, Node.js, Express.js, and ML-based recommendation algorithms.",found_later,no,2.0,few_exist,some,1
+Design and analysis of a 5-DOF Robotic arm,4.0,9.0,Agentic ai,found_later,yes,1.0,few_exist,plenty,1
+Campus copilot,3.0,5.0,Media pipe,unavailable,yes,5.0,seemed_unique,very_little,2
+Hostel connect,4.0,1.5,Data analytics,self_built,yes,4.0,many_exist,very_little,2
+Codemedic: Ai powered self healing software,5.0,6.0,Agentic ai,available,yes,5.0,few_exist,very_little,2
+A Secure Finance Awareness System using Advanced AI,4.0,1.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",unknown,yes,3.0,few_exist,some,0
+Ai automated smart dustbin,3.0,8.0,ML,self_built,yes,5.0,not_sure,very_little,2
+ClientIQ-CRM,6.0,9.0,"Flask,Python ,Artificial Intelligence & Machine Learning ,Computer Vision (OpenCV) ,Web Technologies ,Real-Time Video Processing",self_built,yes,3.0,many_exist,some,1
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,2.0,3.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",self_built,yes,4.0,many_exist,some,2
+CRM software,6.0,2.5,Ardino uno,unavailable,yes,4.0,seemed_unique,unknown,1
+GHOST-NET  (Garrison Hardware for Off-grid Secure Tactical Networks),2.0,4.0,"React , Node Js , Electronics , Hardware , Software use",available,no,3.0,few_exist,plenty,2
+"Smart tourist companion, universal syntax",3.0,4.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",self_built,yes,3.0,few_exist,some,0
+AI Based Resume Shortlisting system,5.0,2.5,"Python, transformer, ocr, AWS textract, pytorch",available,no,5.0,few_exist,some,1
+CRM software,2.0,1.5,"XGBoost/CatBoost/Random Forest with PageRank, TF-IDF, and KMeans",available,no,3.0,seemed_unique,some,1
+Vertical take off and landing,5.0,4.0,"Android development , java , xampp, mysql , php",unknown,no,4.0,few_exist,some,2
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,4.0,5.0,Python,self_built,no,2.0,few_exist,plenty,0
+Automated Options Trading Bot with Adaptive Risk-Based Strategy Selection,3.0,9.0,"Deep learning (yolov8), raspberry Pi, electronics",unavailable,yes,3.0,few_exist,very_little,1
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,4.0,1.5,"MERN Stack, Python, CNN/Deep Learning, ResNet-50, EfficientNet-V3, PyTorch/timm, MongoDB, React.js, Node.js, Express.js, and ML-based recommendation algorithms.",unavailable,yes,3.0,few_exist,some,0
+Enhancing financial decision-making: machine learning and AI-powered predictions and analysis,2.0,3.0,Python,available,no,3.0,few_exist,some,1
+Robust Deepfake Detection Using Spatial-Frequency Hybrid Learning and Asymmetric Branch-Wise Training,4.0,6.0,"Android studio, java, kotline, xml, java external libraries, etc",found_later,yes,1.0,seemed_unique,very_little,0
+AI-GYM-COACH,5.0,6.0,"ML,AI",available,no,3.0,few_exist,some,0
+Design and development of automated silver leaf applicator,3.0,2.0,"Esp32 mpu6050 gps sensore ultasonic arduino coding think speak dasborad , and others etc",unavailable,no,4.0,few_exist,plenty,0
+CIFER: Secure File Storage and Sharing System Using AES-256 Encryption and OTP‑Based Authentication,4.0,9.0,"Claude, SQL, eclipse",found_later,no,2.0,seemed_unique,some,0
+Smart obstacle avoidence car using ai and emergency alerts,5.0,5.0,Python,found_later,yes,5.0,unknown,very_little,0
+Multu agent framework for ev,5.0,1.0,"Android development , java , xampp, mysql , php",self_built,yes,2.0,few_exist,some,1
+IOT Based Smartwatch,4.0,1.5,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,available,no,2.0,few_exist,plenty,1
+Ayurgpt,5.0,2.0,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",self_built,no,5.0,many_exist,some,2
+Flood - Connect,2.0,2.0,"HTML , CSS",available,no,4.0,not_sure,some,0
+Nutri AI - an intelligent good recognition and personal diet recommendation system,6.0,5.0,Python,self_built,no,5.0,many_exist,plenty,2
+"Smart tourist companion, universal syntax",2.0,5.0,ESP32-C3 + FreeRTOS + AD8232 + MAX30102 + MPU6050 + MLX90614 + Flutter/Dart + TensorFlow/TFLite + Python + FastAPI + Firebase RTDB + Firestore + AWS + MQTT/HiveMQ + BLE 5.0 + I²C + Wi-Fi.,available,yes,5.0,many_exist,some,2
+khvijprehgr,1.0,4.0,"Web development, artificial intelligence, fintech, security",self_built,no,5.0,few_exist,some,1
+Theoretical question paper checking,3.0,1.0,"Android development , java , xampp, mysql , php",unavailable,yes,2.0,few_exist,plenty,1
+Smart management,2.0,2.5,Python,available,yes,4.0,few_exist,some,0
+"Smart tourist companion, universal syntax",2.0,4.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",available,yes,3.0,few_exist,very_little,0
+Finance literacy,5.0,1.0,"Frontend React (functional components + hooks: useState, useEffect) Tailwind CSS (utility classes) + custom inline CSS for the parchment/palm-leaf design Lucide React (icons) Google Fonts — Lora (headers), Inter (body), IBM Plex Mono (citations) AI / GenAI layer Anthropic Claude API (claude-sonnet-4-6), called directly via fetch from the browser — this generates the actual answer text, grounded in whatever context gets retrieved Search / retrieval (the ""R"" in RAG) Hand-built, not a library: tokenization → stopword removal → term-frequency vectors → cosine similarity. Same technique you used in Skill Gap Analyzer, just applied to herb descriptions instead of resumes Data & storage window\.storage — a persistent key-value store (shared scope), used for the Q&A logs, bookmarks, and feedback so data survives across sessions and is visible to the admin view Export SheetJS (xlsx library) — generates the real .xlsx file for the admin's ""Export to Excel"" button, entirely client-side Auth Simple demo-only role check (user name vs. hardcoded admin password) — no real backend, so worth stating plainly in your report that this isn't production authentication",self_built,no,3.0,seemed_unique,some,0
+Smart management,4.0,8.0,"HTML , CSS",unavailable,no,3.0,seemed_unique,plenty,1
+Smart traffic system,3.0,2.5,Ardino uno,self_built,no,3.0,seemed_unique,plenty,0
+AI lab manager,5.0,3.0,"Python,kite connect api,Fastapi,React.js,ML/AI,Opstra.",available,yes,4.0,seemed_unique,plenty,1
+Additive manufacturing and digital technology,3.0,6.0,"Android development , java , xampp, mysql , php",self_built,yes,2.0,seemed_unique,some,0
+Codemedic: Ai powered self healing software,2.0,2.5,"Streamlit (Python), Folium, geopy, streamlit\_geolocation, FAST2SMS",found_later,yes,3.0,few_exist,plenty,1
+AuraAlert: An AI-Powered Real-Time Women’s Safety Platform with Geospatial Crime Analytics,3.0,2.5,"React , Node Js , Electronics , Hardware , Software use",self_built,no,4.0,few_exist,some,1
+Aura Alert Women Safety Platform,2.0,5.0,"Arduino, MATLAB, SolidWorks, etc",self_built,no,2.0,few_exist,some,1
+Theoretical question paper checking,3.0,3.0,"Machine learning, NLP",found_later,yes,2.0,few_exist,plenty,0
+Ai automated smart dustbin,2.0,8.0,"Android development , java , xampp, mysql , php",found_later,no,3.0,few_exist,some,0
+Design and development of automated silver leaf applicator,3.0,2.0,"Python, PyTorch, Torchvision, OpenCV, NumPy, Scikit-learn, CUDA, ResNet-50, CNN, FFT, Git/GitHub",available,yes,2.0,seemed_unique,some,1
+Vertical take off and landing,4.0,8.0,Robotics iot coding,unavailable,no,2.0,few_exist,plenty,0
+Finance literacy,4.0,1.5,"Python, OPenCV, YOLO, SQL",available,yes,4.0,few_exist,very_little,0

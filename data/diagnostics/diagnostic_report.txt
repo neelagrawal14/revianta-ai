@@ -1,0 +1,124 @@
+BASIC DATASET INFORMATION
+Rows: 3649
+Columns: 24
+
+COLUMNS
+01. Timestamp | dtype=str | unique=3047 | missing=601
+02. Name | dtype=str | unique=1786 | missing=1
+03. Email | dtype=str | unique=3648 | missing=1
+04. Your Project title/idea | dtype=str | unique=47 | missing=64
+05. Team size | dtype=float64 | unique=7 | missing=1
+06. Planned timeline (in months) | dtype=float64 | unique=11 | missing=1
+07. Actual time taken (in months) | dtype=float64 | unique=14 | missing=1
+08. Technologies used in Project | dtype=str | unique=46 | missing=67
+09. Was a dataset available before you started? | dtype=str | unique=4 | missing=66
+10. Did the project need special hardware (GPU, edge device, etc.)? | dtype=str | unique=2 | missing=66
+11. Rate the technical difficulty at the start | dtype=float64 | unique=5 | missing=1
+12. Before starting your project, were you aware of similar existing projects? | dtype=str | unique=4 | missing=55
+13. Was there enough research/literature to build on? | dtype=str | unique=3 | missing=64
+14. Did you complete the project? | dtype=str | unique=3 | missing=59
+15. Did you publish a paper? | dtype=str | unique=3 | missing=54
+16. Did you file a patent? | dtype=str | unique=3 | missing=58
+17. If not fully completed - main reason? | dtype=str | unique=38 | missing=61
+18. I confirm this information is accurate and can be used (anonymized) for this research study. | dtype=str | unique=1 | missing=1
+19. Unnamed: 18 | dtype=float64 | unique=0 | missing=3649
+20. Unnamed: 19 | dtype=float64 | unique=0 | missing=3649
+21. Unnamed: 20 | dtype=float64 | unique=0 | missing=3649
+22. Unnamed: 21 | dtype=float64 | unique=0 | missing=3649
+23. Unnamed: 22 | dtype=float64 | unique=0 | missing=3649
+24. Unnamed: 23 | dtype=float64 | unique=0 | missing=3649
+
+MISSING VALUES
+Unnamed: 22: 3649 (100.00%)
+Unnamed: 23: 3649 (100.00%)
+Unnamed: 19: 3649 (100.00%)
+Unnamed: 18: 3649 (100.00%)
+Unnamed: 21: 3649 (100.00%)
+Unnamed: 20: 3649 (100.00%)
+Timestamp: 601 (16.47%)
+Technologies used in Project: 67 (1.84%)
+Was a dataset available before you started?: 66 (1.81%)
+Did the project need special hardware (GPU, edge device, etc.)?: 66 (1.81%)
+Was there enough research/literature to build on?: 64 (1.75%)
+Your Project title/idea: 64 (1.75%)
+If not fully completed - main reason?: 61 (1.67%)
+Did you complete the project?: 59 (1.62%)
+Did you file a patent?: 58 (1.59%)
+Before starting your project, were you aware of similar existing projects?: 55 (1.51%)
+Did you publish a paper?: 54 (1.48%)
+Actual time taken (in months): 1 (0.03%)
+Team size: 1 (0.03%)
+Email: 1 (0.03%)
+Name: 1 (0.03%)
+Planned timeline (in months): 1 (0.03%)
+Rate the technical difficulty at the start: 1 (0.03%)
+I confirm this information is accurate and can be used (anonymized) for this research study.: 1 (0.03%)
+
+DUPLICATES
+Exact duplicate rows: 0
+
+EMPTY COLUMNS
+EMPTY: Unnamed: 18
+EMPTY: Unnamed: 19
+EMPTY: Unnamed: 20
+EMPTY: Unnamed: 21
+EMPTY: Unnamed: 22
+EMPTY: Unnamed: 23
+
+TARGET ANALYSIS
+Target: Did you complete the project?
+Missing target: 59
+  Fully: 1637 (44.86%)
+  Partially: 1228 (33.65%)
+  Abandoned: 725 (19.87%)
+  nan: 59 (1.62%)
+
+CATEGORICAL VALUE ANALYSIS
+
+NUMERIC COLUMN ANALYSIS
+------------------------------------------------------------
+Team size
+Min: 1.0
+Max: 100000000.0
+Mean: 27415.960
+Median: 4.000
+------------------------------------------------------------
+Planned timeline (in months)
+Min: 1.0
+Max: 69420.0
+Mean: 23.168
+Median: 3.000
+------------------------------------------------------------
+Actual time taken (in months)
+Min: 1.0
+Max: 6969.0
+Mean: 6.917
+Median: 4.000
+------------------------------------------------------------
+Rate the technical difficulty at the start
+Min: 1.0
+Max: 5.0
+Mean: 3.433
+Median: 3.000
+
+POSSIBLE NUMERIC OUTLIERS
+Team size: 1 possible outliers
+  Approx range: 0.00 to 8.00
+Planned timeline (in months): 1 possible outliers
+  Approx range: -4.00 to 12.00
+Actual time taken (in months): 1 possible outliers
+  Approx range: -5.50 to 14.50
+Rate the technical difficulty at the start: 160 possible outliers
+  Approx range: 1.50 to 5.50
+
+POSSIBLE DATA LEAKAGE
+POST-OUTCOME / POSSIBLE LEAKAGE: Actual time taken (in months)
+POST-OUTCOME / POSSIBLE LEAKAGE: Did you publish a paper?
+POST-OUTCOME / POSSIBLE LEAKAGE: Did you file a patent?
+
+IDENTITY / PERSONAL COLUMNS
+EXCLUDE FROM ML: Name
+EXCLUDE FROM ML: Email
+EXCLUDE FROM ML: Timestamp
+
+TEXT / NLP CANDIDATES

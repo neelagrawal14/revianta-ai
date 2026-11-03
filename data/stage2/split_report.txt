@@ -1,0 +1,30 @@
+REVIANTA AI - STAGE 2 SPLIT REPORT
+============================================================
+Dataset V1 records: 3587
+Target: project_outcome
+Random state: 42
+
+TRAIN
+Fully: 507
+Partially: 507
+Abandoned: 507
+Total: 1521
+
+VALIDATION
+Fully: 245
+Partially: 184
+Abandoned: 109
+Total: 538
+
+TEST
+Fully: 246
+Partially: 185
+Abandoned: 108
+Total: 539
+
+DATA INTEGRITY
+ML-identical duplicates removed: 2
+Training balanced using undersampling.
+Validation and test were not balanced.
+All three classes present in all splits.
+No cross-split overlap.

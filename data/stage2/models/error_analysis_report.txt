@@ -1,0 +1,42 @@
+REVIANTA AI - STAGE 2 ERROR ANALYSIS
+============================================================
+
+OVERALL
+Total predictions: 539
+Correct: 280
+Incorrect: 259
+Accuracy: 0.519481
+
+ERROR BREAKDOWN
+Correct: 280
+Fully -> Partially: 122
+Partially -> Fully: 60
+Fully -> Abandoned: 29
+Partially -> Abandoned: 25
+Abandoned -> Partially: 12
+Abandoned -> Fully: 11
+
+CONFIDENCE
+Correct average confidence: 0.629471
+Correct average margin: 0.361917
+Incorrect average confidence: 0.569119
+Incorrect average margin: 0.275535
+
+UNCERTAIN PREDICTIONS
+Count: 173
+Percentage: 32.10%
+
+ABANDONED PROJECTS
+Actual: 108
+Correctly detected: 85
+Missed: 23
+
+FULLY COMPLETED PROJECTS
+Actual: 246
+Correctly detected: 95
+Misclassified: 151
+
+PARTIALLY COMPLETED PROJECTS
+Actual: 185
+Correctly detected: 100
+Misclassified: 85

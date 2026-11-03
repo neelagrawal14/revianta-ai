@@ -1,0 +1,4 @@
+,Predicted_Fully,Predicted_Partially,Predicted_Abandoned
+Actual_Fully,94,119,33
+Actual_Partially,62,100,23
+Actual_Abandoned,11,12,85

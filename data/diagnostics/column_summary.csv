@@ -1,0 +1,25 @@
+column,dtype,rows,missing,missing_percentage,unique_values,completely_empty
+Timestamp,str,3649,601,16.47,3047,False
+Name,str,3649,1,0.03,1786,False
+Email,str,3649,1,0.03,3648,False
+Your Project title/idea,str,3649,64,1.75,47,False
+Team size,float64,3649,1,0.03,7,False
+Planned timeline (in months),float64,3649,1,0.03,11,False
+Actual time taken (in months),float64,3649,1,0.03,14,False
+Technologies used in Project,str,3649,67,1.84,46,False
+Was a dataset available before you started?,str,3649,66,1.81,4,False
+"Did the project need special hardware (GPU, edge device, etc.)?",str,3649,66,1.81,2,False
+Rate the technical difficulty at the start,float64,3649,1,0.03,5,False
+"Before starting your project, were you aware of similar existing projects?",str,3649,55,1.51,4,False
+Was there enough research/literature to build on?,str,3649,64,1.75,3,False
+Did you complete the project?,str,3649,59,1.62,3,False
+Did you publish a paper?,str,3649,54,1.48,3,False
+Did you file a patent?,str,3649,58,1.59,3,False
+If not fully completed - main reason?,str,3649,61,1.67,38,False
+I confirm this information is accurate and can be used (anonymized) for this research study.,str,3649,1,0.03,1,False
+Unnamed: 18,float64,3649,3649,100.0,0,True
+Unnamed: 19,float64,3649,3649,100.0,0,True
+Unnamed: 20,float64,3649,3649,100.0,0,True
+Unnamed: 21,float64,3649,3649,100.0,0,True
+Unnamed: 22,float64,3649,3649,100.0,0,True
+Unnamed: 23,float64,3649,3649,100.0,0,True

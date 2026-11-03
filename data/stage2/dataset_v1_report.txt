@@ -1,0 +1,33 @@
+REVIANTA AI — DATASET V1 REPORT
+============================================================
+Original records: 3649
+Final records: 3589
+
+TARGET DISTRIBUTION
+----------------------------------------
+Fully: 1637
+Partially: 1227
+Abandoned: 725
+
+REMOVED FROM MODEL INPUT
+----------------------------------------
+Timestamp
+Name
+Email
+Actual time taken
+Published paper
+Filed patent
+Incomplete reason
+
+DATASET V1 COLUMNS
+----------------------------------------
+project_title
+team_size
+planned_timeline_months
+technologies_used
+dataset_availability
+hardware_required
+technical_difficulty
+similar_project_awareness
+research_availability
+project_outcome

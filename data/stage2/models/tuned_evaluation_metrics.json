@@ -1,0 +1,19 @@
+{
+    "model": "Tuned XGBoost - depth_5",
+    "test_size": 539,
+    "accuracy": 0.5176252319109462,
+    "macro_precision": 0.5328705212766877,
+    "macro_recall": 0.569897132905263,
+    "macro_f1": 0.5395686552006748,
+    "weighted_precision": 0.5262709256652448,
+    "weighted_recall": 0.5176252319109462,
+    "weighted_f1": 0.5095693450673384,
+    "log_loss": 0.9220473766326904,
+    "abandoned_precision": 0.6028368794326241,
+    "abandoned_recall": 0.7870370370370371,
+    "abandoned_f1": 0.6827309236947792,
+    "baseline_test_accuracy": 0.5194805194805194,
+    "baseline_test_macro_f1": 0.5422503756097257,
+    "baseline_test_abandoned_recall": 0.7870370370370371,
+    "test_data_used_after_model_selection": true
+}

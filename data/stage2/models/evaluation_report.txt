@@ -1,0 +1,44 @@
+REVIANTA AI - STAGE 2 MODEL EVALUATION
+============================================================
+
+VALIDATION PERFORMANCE
+Accuracy: 0.516729
+Macro Precision: 0.527669
+Macro Recall: 0.569909
+Macro F1: 0.540713
+Log Loss: 0.921548
+
+FINAL TEST PERFORMANCE
+Accuracy: 0.519481
+Macro Precision: 0.537050
+Macro Recall: 0.571252
+Macro F1: 0.542250
+Weighted Precision: 0.530401
+Weighted Recall: 0.519481
+Weighted F1: 0.512215
+Log Loss: 0.922694
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+       Fully       0.57      0.39      0.46       246
+   Partially       0.43      0.54      0.48       185
+   Abandoned       0.61      0.79      0.69       108
+
+    accuracy                           0.52       539
+   macro avg       0.54      0.57      0.54       539
+weighted avg       0.53      0.52      0.51       539
+
+
+CONFUSION MATRIX
+                  Predicted_Fully  Predicted_Partially  Predicted_Abandoned
+Actual_Fully                   95                  122                   29
+Actual_Partially               60                  100                   25
+Actual_Abandoned               11                   12                   85
+
+ABANDONED PROJECT DETECTION
+Precision: 0.611511
+Recall: 0.787037
+F1: 0.688259
+
+TEST DATA WAS NOT USED DURING TRAINING.

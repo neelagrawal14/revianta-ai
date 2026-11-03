@@ -1,0 +1,1021 @@
+feature_index,feature_name
+0,text__150mah
+1,text__150mah lipo
+2,text__256
+3,text__256 encryption
+4,text__3d
+5,text__3d printing
+6,text__50
+7,text__50 cnn
+8,text__50 efficientnet
+9,text__6050
+10,text___geolocation
+11,text___geolocation fast2sms
+12,text__access
+13,text__access control
+14,text__across
+15,text__across sessions
+16,text__actual
+17,text__actual answer
+18,text__ad8232
+19,text__ad8232 max30102
+20,text__adaptive
+21,text__adaptive risk
+22,text__additive
+23,text__additive manufacturing
+24,text__admin
+25,text__admin export
+26,text__admin password
+27,text__admin view
+28,text__advanced
+29,text__advanced ai
+30,text__aes
+31,text__aes 256
+32,text__agent
+33,text__agent framework
+34,text__agentic
+35,text__agentic ai
+36,text__ai
+37,text__ai an
+38,text__ai automated
+39,text__ai based
+40,text__ai genai
+41,text__ai gym
+42,text__ai lab
+43,text__ai ml
+44,text__ai opstra
+45,text__ai powered
+46,text__ai python
+47,text__ai self
+48,text__alert
+49,text__alert women
+50,text__alerts
+51,text__algorithms
+52,text__an
+53,text__an ai
+54,text__an influencer
+55,text__an intelligent
+56,text__analysis
+57,text__analysis of
+58,text__analytics
+59,text__analyzer
+60,text__analyzer just
+61,text__and
+62,text__and ai
+63,text__and analysis
+64,text__and asymmetric
+65,text__and development
+66,text__and digital
+67,text__and emergency
+68,text__and feedback
+69,text__and health
+70,text__and is
+71,text__and kmeans
+72,text__and landing
+73,text__and ml
+74,text__and more
+75,text__and mpu
+76,text__and others
+77,text__and otp
+78,text__and personal
+79,text__and reciever
+80,text__and sharing
+81,text__android
+82,text__android development
+83,text__android studio
+84,text__answer
+85,text__answer text
+86,text__anthropic
+87,text__anthropic claude
+88,text__api
+89,text__api claude
+90,text__api fastapi
+91,text__api llms
+92,text__apis
+93,text__applicator
+94,text__applied
+95,text__applied to
+96,text__arduino
+97,text__arduino coding
+98,text__arduino matlab
+99,text__arduino uno
+100,text__arm
+101,text__artificial
+102,text__artificial intelligence
+103,text__asymmetric
+104,text__asymmetric branch
+105,text__aura
+106,text__aura alert
+107,text__auraalert
+108,text__auraalert an
+109,text__auth
+110,text__auth simple
+111,text__authentication
+112,text__authentication system
+113,text__automated
+114,text__automated options
+115,text__automated silver
+116,text__automated smart
+117,text__awareness
+118,text__awareness system
+119,text__aws
+120,text__aws mqtt
+121,text__aws textract
+122,text__ayurgpt
+123,text__backend
+124,text__backend so
+125,text__based
+126,text__based authentication
+127,text__based recommendation
+128,text__based resume
+129,text__based secure
+130,text__based strategy
+131,text__battery
+132,text__biometric
+133,text__biometric authentication
+134,text__ble
+135,text__ble i2c
+136,text__blind
+137,text__blind nav
+138,text__blind people
+139,text__body
+140,text__body ibm
+141,text__bookmarks
+142,text__bookmarks and
+143,text__bot
+144,text__bot with
+145,text__branch
+146,text__branch wise
+147,text__browser
+148,text__browser this
+149,text__built
+150,text__built not
+151,text__burnout
+152,text__burnout detector
+153,text__bus
+154,text__bus tracking
+155,text__button
+156,text__button entirely
+157,text__c3
+158,text__c3 freertos
+159,text__called
+160,text__called directly
+161,text__campus
+162,text__campus copilot
+163,text__car
+164,text__car using
+165,text__catboost
+166,text__catboost random
+167,text__check
+168,text__check user
+169,text__checking
+170,text__cifer
+171,text__cifer secure
+172,text__citations
+173,text__citations ai
+174,text__classes
+175,text__classes custom
+176,text__claude
+177,text__claude api
+178,text__claude sonnet
+179,text__claude sql
+180,text__client
+181,text__client side
+182,text__clientiq
+183,text__clientiq crm
+184,text__cnn
+185,text__cnn deep
+186,text__cnn fft
+187,text__coach
+188,text__codemedic
+189,text__codemedic ai
+190,text__coding
+191,text__coding think
+192,text__colab
+193,text__colab jupyter
+194,text__communication
+195,text__communication cryptography
+196,text__companion
+197,text__companion universal
+198,text__components
+199,text__components hooks
+200,text__compressor
+201,text__compressor suction
+202,text__computer
+203,text__computer vision
+204,text__conferencing
+205,text__conferencing using
+206,text__connect
+207,text__connect api
+208,text__context
+209,text__context gets
+210,text__control
+211,text__copilot
+212,text__cosine
+213,text__cosine similarity
+214,text__crime
+215,text__crime analytics
+216,text__crm
+217,text__crm software
+218,text__cryptography
+219,text__cryptography cybersecurity
+220,text__css
+221,text__css for
+222,text__css utility
+223,text__cuda
+224,text__cuda resnet
+225,text__cups
+226,text__custom
+227,text__custom inline
+228,text__cybersecurity
+229,text__cybersecurity and
+230,text__dart
+231,text__dart tensorflow
+232,text__dasborad
+233,text__dasborad and
+234,text__data
+235,text__data analytics
+236,text__data storage
+237,text__data survives
+238,text__dbs
+239,text__dbs python
+240,text__decision
+241,text__decision making
+242,text__deep
+243,text__deep learning
+244,text__deepfake
+245,text__deepfake detection
+246,text__delta
+247,text__delta robo
+248,text__demo
+249,text__demo only
+250,text__descriptions
+251,text__descriptions instead
+252,text__design
+253,text__design and
+254,text__design lucide
+255,text__designing
+256,text__designing softwares
+257,text__detection
+258,text__detection using
+259,text__detector
+260,text__development
+261,text__development artificial
+262,text__development java
+263,text__development of
+264,text__device
+265,text__device for
+266,text__diagnosis
+267,text__diagnosis and
+268,text__diet
+269,text__diet recommendation
+270,text__digital
+271,text__digital technology
+272,text__directly
+273,text__directly via
+274,text__disease
+275,text__disease diagnosis
+276,text__dof
+277,text__dof robotic
+278,text__dustbin
+279,text__ecg
+280,text__ecg ppg
+281,text__eclipse
+282,text__efficientnet
+283,text__efficientnet v3
+284,text__electronics
+285,text__electronics hardware
+286,text__embedded
+287,text__embedded systems
+288,text__encryption
+289,text__encryption and
+290,text__enhancing
+291,text__enhancing financial
+292,text__entirely
+293,text__entirely client
+294,text__esp32
+295,text__esp32 c3
+296,text__esp32 mpu6050
+297,text__esp32c3
+298,text__esp32c3 ir
+299,text__etc
+300,text__ev
+301,text__excel
+302,text__excel button
+303,text__explainable
+304,text__explainable ai
+305,text__export
+306,text__export sheetjs
+307,text__export to
+308,text__express
+309,text__express js
+310,text__external
+311,text__external libraries
+312,text__fake
+313,text__fake news
+314,text__fast
+315,text__fast api
+316,text__fast2sms
+317,text__fastapi
+318,text__fastapi firebase
+319,text__fastapi react
+320,text__feedback
+321,text__feedback so
+322,text__fetch
+323,text__fetch from
+324,text__fft
+325,text__fft git
+326,text__fi
+327,text__file
+328,text__file for
+329,text__file storage
+330,text__finance
+331,text__finance awareness
+332,text__finance literacy
+333,text__financial
+334,text__financial decision
+335,text__fintech
+336,text__fintech security
+337,text__firebase
+338,text__firebase rtdb
+339,text__firestore
+340,text__firestore aws
+341,text__flask
+342,text__flask python
+343,text__flood
+344,text__flood connect
+345,text__flutter
+346,text__flutter dart
+347,text__folium
+348,text__folium geopy
+349,text__fonts
+350,text__fonts lora
+351,text__for
+352,text__for blind
+353,text__for ev
+354,text__for navigation
+355,text__for off
+356,text__for secure
+357,text__for the
+358,text__for video
+359,text__forest
+360,text__forest with
+361,text__framework
+362,text__framework fast2sms
+363,text__framework for
+364,text__freertos
+365,text__freertos ad8232
+366,text__frequency
+367,text__frequency hybrid
+368,text__frequency vectors
+369,text__from
+370,text__from the
+371,text__frontend
+372,text__frontend react
+373,text__fruit
+374,text__fruit disease
+375,text__functional
+376,text__functional components
+377,text__gap
+378,text__gap analyzer
+379,text__garrison
+380,text__garrison hardware
+381,text__genai
+382,text__genai layer
+383,text__generates
+384,text__generates the
+385,text__geopy
+386,text__geopy streamlit
+387,text__geospatial
+388,text__geospatial crime
+389,text__gets
+390,text__gets retrieved
+391,text__ghost
+392,text__ghost net
+393,text__git
+394,text__git github
+395,text__github
+396,text__good
+397,text__good recognition
+398,text__google
+399,text__google colab
+400,text__google fonts
+401,text__gps
+402,text__gps sensore
+403,text__grid
+404,text__grid secure
+405,text__grounded
+406,text__grounded in
+407,text__gym
+408,text__gym coach
+409,text__hand
+410,text__hand built
+411,text__haptic
+412,text__haptic device
+413,text__hardcoded
+414,text__hardcoded admin
+415,text__hardware
+416,text__hardware for
+417,text__hardware software
+418,text__headers
+419,text__headers inter
+420,text__healing
+421,text__healing software
+422,text__healing tool
+423,text__health
+424,text__health monitoring
+425,text__herb
+426,text__herb descriptions
+427,text__hivemq
+428,text__hivemq ble
+429,text__hooks
+430,text__hooks usestate
+431,text__hostel
+432,text__hostel connect
+433,text__html
+434,text__html css
+435,text__hybrid
+436,text__hybrid learning
+437,text__i2c
+438,text__i2c wi
+439,text__ibm
+440,text__ibm plex
+441,text__icons
+442,text__icons google
+443,text__idf
+444,text__idf and
+445,text__in
+446,text__in rag
+447,text__in skill
+448,text__in whatever
+449,text__in your
+450,text__influencer
+451,text__influencer recommendation
+452,text__inline
+453,text__inline css
+454,text__instead
+455,text__instead of
+456,text__intelligence
+457,text__intelligence fintech
+458,text__intelligence machine
+459,text__intelligent
+460,text__intelligent good
+461,text__inter
+462,text__inter body
+463,text__iot
+464,text__iot coding
+465,text__ir
+466,text__ir led
+467,text__is
+468,text__is visible
+469,text__isn
+470,text__isn production
+471,text__java
+472,text__java external
+473,text__java kotline
+474,text__java xampp
+475,text__js
+476,text__js and
+477,text__js electronics
+478,text__js express
+479,text__js ml
+480,text__js node
+481,text__jupyter
+482,text__jupyter notebook
+483,text__just
+484,text__just applied
+485,text__keras
+486,text__keras opencv
+487,text__key
+488,text__key value
+489,text__khvijprehgr
+490,text__kite
+491,text__kite connect
+492,text__kjhviulfdsg
+493,text__kmeans
+494,text__kotline
+495,text__kotline xml
+496,text__lab
+497,text__lab manager
+498,text__landing
+499,text__langgraph
+500,text__langgraph fast
+501,text__layer
+502,text__layer anthropic
+503,text__leaf
+504,text__leaf applicator
+505,text__leaf design
+506,text__learn
+507,text__learn cuda
+508,text__learn google
+509,text__learning
+510,text__learning and
+511,text__learning computer
+512,text__learning nlp
+513,text__learning resnet
+514,text__learning yolov8
+515,text__led
+516,text__led and
+517,text__legs
+518,text__legs using
+519,text__libraries
+520,text__libraries etc
+521,text__library
+522,text__library generates
+523,text__library tokenization
+524,text__lipo
+525,text__lipo battery
+526,text__literacy
+527,text__live
+528,text__live bus
+529,text__llm
+530,text__llm apis
+531,text__llms
+532,text__llms vector
+533,text__logs
+534,text__logs bookmarks
+535,text__lora
+536,text__lora headers
+537,text__lora wireless
+538,text__lucide
+539,text__lucide react
+540,text__machine
+541,text__machine learning
+542,text__made
+543,text__made for
+544,text__making
+545,text__making machine
+546,text__manager
+547,text__manufacturing
+548,text__manufacturing and
+549,text__matlab
+550,text__matlab solidworks
+551,text__matplotlib
+552,text__matplotlib scikit
+553,text__max30102
+554,text__max30102 mpu6050
+555,text__media
+556,text__media pipe
+557,text__mern
+558,text__mern llm
+559,text__mern stack
+560,text__ml
+561,text__ml ai
+562,text__ml based
+563,text__mlx90614
+564,text__mlx90614 flutter
+565,text__mongodb
+566,text__mongodb react
+567,text__monitoring
+568,text__monitoring using
+569,text__mono
+570,text__mono citations
+571,text__more
+572,text__mpu
+573,text__mpu 6050
+574,text__mpu6050
+575,text__mpu6050 gps
+576,text__mpu6050 mlx90614
+577,text__mqtt
+578,text__mqtt hivemq
+579,text__multimodal
+580,text__multimodal ecg
+581,text__multu
+582,text__multu agent
+583,text__mysql
+584,text__mysql php
+585,text__name
+586,text__name vs
+587,text__nav
+588,text__nav wearable
+589,text__navigation
+590,text__navigation made
+591,text__net
+592,text__net garrison
+593,text__networks
+594,text__news
+595,text__news detection
+596,text__nlp
+597,text__no
+598,text__no real
+599,text__node
+600,text__node js
+601,text__not
+602,text__not library
+603,text__notebook
+604,text__numpy
+605,text__numpy pandas
+606,text__numpy scikit
+607,text__nutri
+608,text__nutri ai
+609,text__obstacle
+610,text__obstacle avoidence
+611,text__ocr
+612,text__ocr aws
+613,text__ocular
+614,text__ocular burnout
+615,text__of
+616,text__of automated
+617,text__of dof
+618,text__of resumes
+619,text__off
+620,text__off and
+621,text__off grid
+622,text__only
+623,text__only role
+624,text__opencv
+625,text__opencv numpy
+626,text__opencv web
+627,text__opencv yolo
+628,text__opstra
+629,text__options
+630,text__options trading
+631,text__others
+632,text__others etc
+633,text__otp
+634,text__otp based
+635,text__pagerank
+636,text__pagerank tf
+637,text__palm
+638,text__palm leaf
+639,text__pandas
+640,text__pandas matplotlib
+641,text__paper
+642,text__paper checking
+643,text__parchment
+644,text__parchment palm
+645,text__parkinson
+646,text__parkinson detection
+647,text__password
+648,text__password no
+649,text__people
+650,text__persistent
+651,text__persistent key
+652,text__personal
+653,text__personal diet
+654,text__php
+655,text__pi
+656,text__pi electronics
+657,text__pipe
+658,text__plainly
+659,text__plainly in
+660,text__platform
+661,text__platform with
+662,text__plex
+663,text__plex mono
+664,text__powered
+665,text__powered predictions
+666,text__powered real
+667,text__powered self
+668,text__ppg
+669,text__ppg biometric
+670,text__predictions
+671,text__predictions and
+672,text__printing
+673,text__printing compressor
+674,text__processing
+675,text__production
+676,text__production authentication
+677,text__python
+678,text__python artificial
+679,text__python cnn
+680,text__python deep
+681,text__python fastapi
+682,text__python folium
+683,text__python kite
+684,text__python opencv
+685,text__python pytorch
+686,text__python streamlit
+687,text__python transformer
+688,text__pytorch
+689,text__pytorch timm
+690,text__pytorch torchvision
+691,text__question
+692,text__question paper
+693,text__rag
+694,text__rag hand
+695,text__rag langgraph
+696,text__random
+697,text__random forest
+698,text__raspberry
+699,text__raspberry pi
+700,text__react
+701,text__react functional
+702,text__react icons
+703,text__react js
+704,text__react node
+705,text__real
+706,text__real backend
+707,text__real time
+708,text__real xlsx
+709,text__reciever
+710,text__reciever 150mah
+711,text__recognition
+712,text__recognition and
+713,text__recommendation
+714,text__recommendation algorithms
+715,text__recommendation system
+716,text__removal
+717,text__removal term
+718,text__report
+719,text__report that
+720,text__resnet
+721,text__resnet 50
+722,text__resume
+723,text__resume shortlisting
+724,text__resumes
+725,text__resumes data
+726,text__retrieval
+727,text__retrieval the
+728,text__retrieved
+729,text__retrieved search
+730,text__risk
+731,text__risk based
+732,text__robo
+733,text__robo 3d
+734,text__robotic
+735,text__robotic arm
+736,text__robotic legs
+737,text__robotics
+738,text__robotics iot
+739,text__robust
+740,text__robust deepfake
+741,text__role
+742,text__role check
+743,text__rtdb
+744,text__rtdb firestore
+745,text__safety
+746,text__safety platform
+747,text__same
+748,text__same technique
+749,text__scara
+750,text__scara delta
+751,text__scikit
+752,text__scikit learn
+753,text__scope
+754,text__scope used
+755,text__search
+756,text__search retrieval
+757,text__secure
+758,text__secure access
+759,text__secure authentication
+760,text__secure file
+761,text__secure finance
+762,text__secure tactical
+763,text__security
+764,text__selection
+765,text__self
+766,text__self healing
+767,text__sensor
+768,text__sensore
+769,text__sensore ultasonic
+770,text__sessions
+771,text__sessions and
+772,text__shared
+773,text__shared scope
+774,text__sharing
+775,text__sharing system
+776,text__sheetjs
+777,text__sheetjs xlsx
+778,text__shortlisting
+779,text__shortlisting system
+780,text__side
+781,text__side auth
+782,text__silver
+783,text__silver leaf
+784,text__similarity
+785,text__similarity same
+786,text__simple
+787,text__simple demo
+788,text__skill
+789,text__skill gap
+790,text__smart
+791,text__smart dustbin
+792,text__smart obstacle
+793,text__smart tourist
+794,text__smartinfluence
+795,text__smartinfluence an
+796,text__so
+797,text__so data
+798,text__so worth
+799,text__software
+800,text__software use
+801,text__softwares
+802,text__softwares scara
+803,text__solidworks
+804,text__solidworks etc
+805,text__sonnet
+806,text__sonnet called
+807,text__spatial
+808,text__spatial frequency
+809,text__speak
+810,text__speak dasborad
+811,text__sql
+812,text__sql eclipse
+813,text__stack
+814,text__stack python
+815,text__stating
+816,text__stating plainly
+817,text__stopword
+818,text__stopword removal
+819,text__storage
+820,text__storage and
+821,text__storage persistent
+822,text__storage window
+823,text__store
+824,text__store shared
+825,text__strategy
+826,text__strategy selection
+827,text__streamlit
+828,text__streamlit _geolocation
+829,text__streamlit framework
+830,text__streamlit python
+831,text__studio
+832,text__studio java
+833,text__suction
+834,text__suction cups
+835,text__survives
+836,text__survives across
+837,text__syntax
+838,text__system
+839,text__system for
+840,text__system python
+841,text__system using
+842,text__systems
+843,text__systems lora
+844,text__tactical
+845,text__tactical networks
+846,text__tailwind
+847,text__tailwind css
+848,text__take
+849,text__take off
+850,text__technique
+851,text__technique you
+852,text__technologies
+853,text__technologies real
+854,text__technology
+855,text__tensorflow
+856,text__tensorflow keras
+857,text__tensorflow tflite
+858,text__term
+859,text__term frequency
+860,text__text
+861,text__text grounded
+862,text__textract
+863,text__textract pytorch
+864,text__tf
+865,text__tf idf
+866,text__tflite
+867,text__tflite python
+868,text__that
+869,text__that this
+870,text__the
+871,text__the actual
+872,text__the admin
+873,text__the browser
+874,text__the in
+875,text__the logs
+876,text__the parchment
+877,text__the real
+878,text__theoretical
+879,text__theoretical question
+880,text__think
+881,text__think speak
+882,text__this
+883,text__this generates
+884,text__this isn
+885,text__time
+886,text__time video
+887,text__time women
+888,text__timm
+889,text__timm mongodb
+890,text__to
+891,text__to excel
+892,text__to herb
+893,text__to the
+894,text__tokenization
+895,text__tokenization stopword
+896,text__tool
+897,text__torchvision
+898,text__torchvision opencv
+899,text__tourist
+900,text__tourist companion
+901,text__tracking
+902,text__tracking system
+903,text__trading
+904,text__trading bot
+905,text__training
+906,text__transformer
+907,text__transformer ocr
+908,text__ultasonic
+909,text__ultasonic arduino
+910,text__universal
+911,text__universal syntax
+912,text__uno
+913,text__uno and
+914,text__use
+915,text__used
+916,text__used for
+917,text__used in
+918,text__useeffect
+919,text__useeffect tailwind
+920,text__user
+921,text__user name
+922,text__usestate
+923,text__usestate useeffect
+924,text__using
+925,text__using advanced
+926,text__using aes
+927,text__using ai
+928,text__using arduino
+929,text__using computer
+930,text__using spatial
+931,text__utility
+932,text__utility classes
+933,text__v3
+934,text__v3 pytorch
+935,text__value
+936,text__value store
+937,text__vector
+938,text__vector dbs
+939,text__vectors
+940,text__vectors cosine
+941,text__vertical
+942,text__vertical take
+943,text__via
+944,text__via fetch
+945,text__video
+946,text__video conferencing
+947,text__video processing
+948,text__view
+949,text__view export
+950,text__visible
+951,text__visible to
+952,text__vision
+953,text__vision opencv
+954,text__vision tensorflow
+955,text__vs
+956,text__vs hardcoded
+957,text__wearable
+958,text__wearable haptic
+959,text__web
+960,text__web development
+961,text__web technologies
+962,text__whatever
+963,text__whatever context
+964,text__whips
+965,text__wi
+966,text__wi fi
+967,text__window
+968,text__window storage
+969,text__wireless
+970,text__wireless communication
+971,text__wise
+972,text__wise training
+973,text__with
+974,text__with adaptive
+975,text__with geospatial
+976,text__with pagerank
+977,text__women
+978,text__women safety
+979,text__worth
+980,text__worth stating
+981,text__xampp
+982,text__xampp mysql
+983,text__xgboost
+984,text__xgboost catboost
+985,text__xiao
+986,text__xiao esp32c3
+987,text__xlsx
+988,text__xlsx file
+989,text__xlsx library
+990,text__xml
+991,text__xml java
+992,text__yolo
+993,text__yolo sql
+994,text__yolov8
+995,text__yolov8 raspberry
+996,text__you
+997,text__you used
+998,text__your
+999,text__your report
+1000,categorical__dataset_availability_available
+1001,categorical__dataset_availability_found_later
+1002,categorical__dataset_availability_self_built
+1003,categorical__dataset_availability_unavailable
+1004,categorical__dataset_availability_unknown
+1005,categorical__hardware_required_no
+1006,categorical__hardware_required_unknown
+1007,categorical__hardware_required_yes
+1008,categorical__similar_project_awareness_few_exist
+1009,categorical__similar_project_awareness_many_exist
+1010,categorical__similar_project_awareness_not_sure
+1011,categorical__similar_project_awareness_seemed_unique
+1012,categorical__similar_project_awareness_unknown
+1013,categorical__research_availability_plenty
+1014,categorical__research_availability_some
+1015,categorical__research_availability_unknown
+1016,categorical__research_availability_very_little
+1017,numeric__team_size
+1018,numeric__planned_timeline_months
+1019,numeric__technical_difficulty

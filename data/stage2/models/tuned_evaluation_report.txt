@@ -1,0 +1,43 @@
+REVIANTA AI - STAGE 2
+TUNED MODEL FINAL TEST EVALUATION
+============================================================
+
+MODEL: Tuned XGBoost - depth_5
+MODEL SELECTION: TRAIN + VALIDATION
+FINAL EVALUATION: TEST
+
+TEST PERFORMANCE
+Accuracy: 0.517625
+Macro Precision: 0.532871
+Macro Recall: 0.569897
+Macro F1: 0.539569
+Weighted F1: 0.509569
+Log Loss: 0.922047
+
+ABANDONED DETECTION
+Precision: 0.602837
+Recall: 0.787037
+F1: 0.682731
+
+CLASSIFICATION REPORT
+              precision    recall  f1-score   support
+
+       Fully       0.56      0.38      0.46       246
+   Partially       0.43      0.54      0.48       185
+   Abandoned       0.60      0.79      0.68       108
+
+    accuracy                           0.52       539
+   macro avg       0.53      0.57      0.54       539
+weighted avg       0.53      0.52      0.51       539
+
+
+CONFUSION MATRIX
+                  Predicted_Fully  Predicted_Partially  Predicted_Abandoned
+Actual_Fully                   94                  119                   33
+Actual_Partially               62                  100                   23
+Actual_Abandoned               11                   12                   85
+
+BASELINE VS TUNED
+        model  accuracy  macro_precision  macro_recall  macro_f1  abandoned_recall
+     Baseline  0.519481         0.537050      0.571252  0.542250          0.787037
+Tuned_Depth_5  0.517625         0.532871      0.569897  0.539569          0.787037

@@ -1,0 +1,1021 @@
+feature_name,importance,importance_rank
+categorical__similar_project_awareness_not_sure,0.016557468,1
+categorical__similar_project_awareness_many_exist,0.01244041,2
+categorical__research_availability_very_little,0.011150686,3
+text__ppg,0.008070912,4
+text__external libraries,0.007543203,5
+categorical__dataset_availability_unavailable,0.00690823,6
+text__matlab,0.00624596,7
+text__frequency,0.006231855,8
+text__flask,0.005970517,9
+text__html,0.0059232838,10
+text__arduino matlab,0.0059135403,11
+text__garrison,0.005818558,12
+text__hostel connect,0.005708654,13
+text__storage,0.0055563347,14
+text__based,0.0055321106,15
+text__healing software,0.0054115327,16
+text__android studio,0.005341014,17
+categorical__hardware_required_yes,0.0053225597,18
+text__diagnosis and,0.0052805142,19
+text__fake news,0.005237578,20
+text__codemedic,0.0051883236,21
+text__ecg,0.005130432,22
+text__cnn,0.00511921,23
+text__syntax,0.005114409,24
+text__for off,0.005104663,25
+categorical__dataset_availability_available,0.0050498988,26
+text__hostel,0.0050193425,27
+text__campus copilot,0.0050172014,28
+text__burnout detector,0.005013339,29
+text__self,0.004970867,30
+text__fake,0.0049486863,31
+numeric__technical_difficulty,0.004942626,32
+text__machine learning,0.0049388604,33
+text__real time,0.0048846556,34
+text__burnout,0.004791516,35
+text__aes 256,0.004781039,36
+text__flood,0.0047690426,37
+text__system using,0.004756445,38
+text__and health,0.004711036,39
+text__data,0.004691269,40
+text__detector,0.004673846,41
+text__backend,0.0046626325,42
+text__rag,0.0046509053,43
+text__an ai,0.0045718425,44
+text__smart,0.004511792,45
+text__healing,0.004502384,46
+text__advanced ai,0.0044714087,47
+text__and personal,0.0044618417,48
+text__html css,0.004414317,49
+text__sql eclipse,0.004375751,50
+text__learn,0.0043728077,51
+text__coding,0.004363874,52
+text__using ai,0.004328243,53
+text__ai python,0.0043223095,54
+text__pytorch,0.0042872443,55
+text__google,0.0042863516,56
+text__alert women,0.0042319163,57
+text__fastapi,0.0042044446,58
+text__healing tool,0.0042013093,59
+text__uno,0.0041939006,60
+text__off,0.004193755,61
+text__platform,0.0041917483,62
+text__java,0.004188005,63
+text__finance,0.004160403,64
+text__software,0.004149844,65
+text__claude,0.004138754,66
+text__hardware,0.004119142,67
+text__electronics,0.0041121943,68
+text__css,0.004103611,69
+text__campus,0.004098336,70
+text__system python,0.0040717307,71
+text__ad8232 max30102,0.0040533547,72
+text__and kmeans,0.0040379204,73
+text__256 encryption,0.0039986195,74
+text__alerts,0.0039985767,75
+text__secure,0.003992638,76
+text__android,0.0039867936,77
+text__adaptive risk,0.0039690263,78
+text__aes,0.003953546,79
+text__bus tracking,0.0039410023,80
+text__aura,0.0039387527,81
+text__etc,0.0039314427,82
+text__3d,0.0039238394,83
+text__with,0.0039009314,84
+text__authentication system,0.0039002174,85
+text__learning yolov8,0.0038855993,86
+text__khvijprehgr,0.003847811,87
+text__claude sql,0.0038406006,88
+text__access,0.0038247625,89
+text__and otp,0.0038108116,90
+text__iot,0.0038027063,91
+text__for,0.0038019882,92
+text__recommendation system,0.0037543857,93
+text__safety,0.0037328408,94
+text__and more,0.0037228246,95
+text__tensorflow,0.0036944754,96
+text__checking,0.0036856835,97
+text__bus,0.003683068,98
+text__authentication,0.0036609713,99
+text__analysis,0.003651079,100
+text__development artificial,0.0036405323,101
+text__node,0.0036353553,102
+text__copilot,0.0036258462,103
+text__aws textract,0.0036249363,104
+text__mongodb,0.0036200606,105
+text__media,0.0036011855,106
+text__sensor,0.0035851316,107
+text__iot coding,0.0035464994,108
+text__python,0.00353614,109
+text__ad8232,0.0035227295,110
+text__opencv,0.0035208196,111
+text__catboost,0.0035090176,112
+text__150mah lipo,0.003501132,113
+text__lora,0.003488894,114
+text__safety platform,0.003480849,115
+text__tracking,0.003472111,116
+text__agentic ai,0.0034435783,117
+text__fast2sms,0.0034378122,118
+text__ml,0.0034228587,119
+text__advanced,0.0034163403,120
+text__flood connect,0.003407507,121
+text__arduino,0.0033903744,122
+text__and ai,0.0033809224,123
+text__learning and,0.003379324,124
+text__colab,0.0033781899,125
+text__finance literacy,0.0033663225,126
+text__artificial intelligence,0.0033547806,127
+text__file,0.003327298,128
+text__development java,0.0033201957,129
+text__aws,0.0032943357,130
+text__landing,0.0032813677,131
+text__api llms,0.0032799786,132
+text__companion universal,0.003276926,133
+text__api,0.003273989,134
+text__alert,0.0032739544,135
+text__coach,0.003265378,136
+text__sql,0.0032580395,137
+text__companion,0.0032574022,138
+text__ml ai,0.0032536392,139
+text__flask python,0.003234962,140
+text__machine,0.0032307256,141
+text__parkinson detection,0.003226255,142
+text__resume,0.003216549,143
+text__ai automated,0.0032077383,144
+text__framework fast2sms,0.003204007,145
+text__ai gym,0.0031990726,146
+text__design and,0.0031973885,147
+text__blind,0.0031966814,148
+text__150mah,0.0031914387,149
+text__learning,0.0031854252,150
+text__using,0.0031851353,151
+text__ai an,0.0031789376,152
+text__whips,0.0031645575,153
+text__recommendation,0.0031484691,154
+text__streamlit,0.0031480053,155
+text__additive,0.0031445231,156
+text__paper,0.003143964,157
+text__development,0.0031383466,158
+text__and others,0.0031357463,159
+text__and development,0.003134034,160
+text__3d printing,0.0031238445,161
+categorical__dataset_availability_unknown,0.0031208713,162
+text__computer,0.0031166952,163
+text__ai,0.003116087,164
+text__automated,0.0031052714,165
+text__automated smart,0.0030961097,166
+text__js,0.0030826868,167
+text__kjhviulfdsg,0.0030819383,168
+text__media pipe,0.0030752916,169
+text__connect,0.0030741931,170
+text__explainable,0.003049264,171
+text__50,0.0030448553,172
+text__asymmetric,0.0030377551,173
+text__communication,0.0030249609,174
+text__mern,0.0030046755,175
+text__printing,0.0029939774,176
+text__and asymmetric,0.0029939692,177
+text__pi,0.0029936922,178
+text__apis,0.0029907736,179
+text__paper checking,0.0029809186,180
+text__ai self,0.0029612968,181
+text__lab,0.0029593348,182
+text__security,0.0029539354,183
+text__arm,0.0029485626,184
+text__blind nav,0.002943073,185
+text__eclipse,0.0029383309,186
+text__framework,0.0029382142,187
+text__and landing,0.0029379195,188
+text__crm,0.002933405,189
+categorical__hardware_required_unknown,0.0029265352,190
+text__agentic,0.0029253666,191
+text__detection,0.0029029297,192
+text__analysis of,0.0028941627,193
+text__compressor,0.0028920306,194
+text__robotic,0.0028766727,195
+text__50 cnn,0.0028648507,196
+text__ai based,0.0028547272,197
+numeric__team_size,0.00284974,198
+text__an,0.0028452226,199
+text__powered,0.0028298385,200
+text__hardware software,0.0028159223,201
+text__applicator,0.0028008812,202
+text__explainable ai,0.0027797462,203
+text__mpu6050,0.0027783008,204
+text__system,0.0027673368,205
+text__llm,0.002757371,206
+text__parkinson,0.0027479534,207
+text__additive manufacturing,0.0027454367,208
+text__live,0.0027393352,209
+text__codemedic ai,0.0027236517,210
+text__and reciever,0.0026996552,211
+text__diagnosis,0.002684495,212
+text___geolocation,0.0026768714,213
+text__ayurgpt,0.0026629015,214
+text__ai powered,0.002660868,215
+text__and,0.0026374476,216
+text__adaptive,0.0026268763,217
+text__data analytics,0.002613423,218
+text__dbs,0.002585948,219
+text__video,0.0025816255,220
+text__clientiq crm,0.0025741106,221
+text__crm software,0.0025660251,222
+text__an influencer,0.0025553505,223
+text__clientiq,0.002546743,224
+text__analytics,0.002546468,225
+text__ai lab,0.0025391427,226
+text__system for,0.0025314712,227
+text__design,0.0025175512,228
+text__agent,0.002504951,229
+text__deep,0.0024900406,230
+categorical__research_availability_unknown,0.0024816755,231
+text__ai ml,0.0024698956,232
+text__lab manager,0.0024454822,233
+text__artificial,0.0024264397,234
+text__of,0.002420197,235
+text__otp,0.0024157614,236
+text__computer vision,0.0024106042,237
+text__esp32,0.002403463,238
+text__learning nlp,0.0023571544,239
+text__off and,0.0023312715,240
+text__auraalert,0.0023075184,241
+text__an intelligent,0.002306796,242
+text___geolocation fast2sms,0.002304509,243
+text__python streamlit,0.0022841638,244
+text__literacy,0.002251278,245
+text__and analysis,0.0022450471,246
+text__based resume,0.002221714,247
+text__real,0.0021198436,248
+text__numpy,0.0021094747,249
+text__ocr,0.002104081,250
+text__ai opstra,0.0021029874,251
+text__api fastapi,0.002097662,252
+text__android development,0.002087462,253
+text__node js,0.0020776312,254
+text__across,0.0020726328,255
+text__leaf,0.0019997682,256
+categorical__research_availability_plenty,0.0019934836,257
+categorical__dataset_availability_found_later,0.0019762078,258
+text__self healing,0.0019692485,259
+text__compressor suction,0.0019370775,260
+categorical__similar_project_awareness_unknown,0.0019232313,261
+text__decision,0.0019223377,262
+text__news,0.0019183438,263
+text__and mpu,0.0018982297,264
+text__deep learning,0.0018747223,265
+text__access control,0.0018738848,266
+text__react,0.0018674175,267
+categorical__dataset_availability_self_built,0.00181205,268
+numeric__planned_timeline_months,0.0018103844,269
+categorical__similar_project_awareness_seemed_unique,0.0017870269,270
+categorical__hardware_required_no,0.001758958,271
+text__6050,0.0017494202,272
+text__fintech,0.0017121733,273
+categorical__research_availability_some,0.0016418496,274
+text__vision,0.0015857593,275
+text__nlp,0.0015357513,276
+text__electronics hardware,0.0015294446,277
+text__based secure,0.001514162,278
+text__coding think,0.0015055845,279
+text__actual answer,0.001493242,280
+categorical__similar_project_awareness_few_exist,0.0014626438,281
+text__learning computer,0.0014468961,282
+text__50 efficientnet,0.0014102104,283
+text__influencer,0.0014039914,284
+text__across sessions,0.0014026479,285
+text__256,0.0013375797,286
+text__asymmetric branch,0.0010535878,287
+text__arduino coding,0.00091828476,288
+text__influencer recommendation,0.00085679773,289
+text__algorithms,0.0008063434,290
+text__agent framework,0.0005517338,291
+text__actual,4.846065e-05,292
+text__dart tensorflow,0.0,293
+text__dasborad,0.0,294
+text__dasborad and,0.0,295
+text__data storage,0.0,296
+text__data survives,0.0,297
+text__dbs python,0.0,298
+text__decision making,0.0,299
+text__deepfake,0.0,300
+text__deepfake detection,0.0,301
+text__delta,0.0,302
+text__delta robo,0.0,303
+text__demo,0.0,304
+text__demo only,0.0,305
+text__descriptions,0.0,306
+text__descriptions instead,0.0,307
+text__design lucide,0.0,308
+text__designing,0.0,309
+text__designing softwares,0.0,310
+text__detection using,0.0,311
+text__and emergency,0.0,312
+text__and feedback,0.0,313
+text__and is,0.0,314
+text__and ml,0.0,315
+text__bookmarks and,0.0,316
+text__bot,0.0,317
+text__bot with,0.0,318
+text__branch,0.0,319
+text__branch wise,0.0,320
+text__browser,0.0,321
+text__browser this,0.0,322
+text__built,0.0,323
+text__built not,0.0,324
+text__button,0.0,325
+text__button entirely,0.0,326
+text__c3,0.0,327
+text__c3 freertos,0.0,328
+text__called,0.0,329
+text__and sharing,0.0,330
+text__development of,0.0,331
+text__device,0.0,332
+text__device for,0.0,333
+text__diet,0.0,334
+text__diet recommendation,0.0,335
+text__digital,0.0,336
+text__digital technology,0.0,337
+text__directly,0.0,338
+text__directly via,0.0,339
+text__disease,0.0,340
+text__disease diagnosis,0.0,341
+text__dof,0.0,342
+text__dof robotic,0.0,343
+text__dustbin,0.0,344
+text__ecg ppg,0.0,345
+text__efficientnet,0.0,346
+text__efficientnet v3,0.0,347
+text__embedded,0.0,348
+text__embedded systems,0.0,349
+text__encryption,0.0,350
+text__encryption and,0.0,351
+text__enhancing,0.0,352
+text__enhancing financial,0.0,353
+text__entirely,0.0,354
+text__entirely client,0.0,355
+text__esp32 c3,0.0,356
+text__esp32 mpu6050,0.0,357
+text__esp32c3,0.0,358
+text__esp32c3 ir,0.0,359
+text__ev,0.0,360
+text__excel,0.0,361
+text__excel button,0.0,362
+text__export,0.0,363
+text__export sheetjs,0.0,364
+text__export to,0.0,365
+text__express,0.0,366
+text__express js,0.0,367
+text__external,0.0,368
+text__fast,0.0,369
+text__fast api,0.0,370
+text__fastapi firebase,0.0,371
+text__fastapi react,0.0,372
+text__feedback,0.0,373
+text__feedback so,0.0,374
+text__fetch,0.0,375
+text__fetch from,0.0,376
+text__fft,0.0,377
+text__fft git,0.0,378
+text__fi,0.0,379
+text__file for,0.0,380
+text__file storage,0.0,381
+text__finance awareness,0.0,382
+text__financial,0.0,383
+text__financial decision,0.0,384
+text__fintech security,0.0,385
+text__firebase,0.0,386
+text__firebase rtdb,0.0,387
+text__firestore,0.0,388
+text__firestore aws,0.0,389
+text__flutter,0.0,390
+text__flutter dart,0.0,391
+text__folium,0.0,392
+text__folium geopy,0.0,393
+text__fonts,0.0,394
+text__fonts lora,0.0,395
+text__for blind,0.0,396
+text__for ev,0.0,397
+text__for navigation,0.0,398
+text__for secure,0.0,399
+text__for the,0.0,400
+text__for video,0.0,401
+text__forest,0.0,402
+text__forest with,0.0,403
+text__framework for,0.0,404
+text__freertos,0.0,405
+text__freertos ad8232,0.0,406
+text__frequency hybrid,0.0,407
+text__frequency vectors,0.0,408
+text__from,0.0,409
+text__from the,0.0,410
+text__frontend,0.0,411
+text__frontend react,0.0,412
+text__fruit,0.0,413
+text__fruit disease,0.0,414
+text__functional,0.0,415
+text__functional components,0.0,416
+text__gap,0.0,417
+text__gap analyzer,0.0,418
+text__garrison hardware,0.0,419
+text__genai,0.0,420
+text__genai layer,0.0,421
+text__generates,0.0,422
+text__generates the,0.0,423
+text__geopy,0.0,424
+text__geopy streamlit,0.0,425
+text__geospatial,0.0,426
+text__geospatial crime,0.0,427
+text__gets,0.0,428
+text__gets retrieved,0.0,429
+text__ghost,0.0,430
+text__ghost net,0.0,431
+text__git,0.0,432
+text__git github,0.0,433
+text__github,0.0,434
+text__good,0.0,435
+text__good recognition,0.0,436
+text__google colab,0.0,437
+text__google fonts,0.0,438
+text__gps,0.0,439
+text__gps sensore,0.0,440
+text__analyzer,0.0,441
+text__analyzer just,0.0,442
+text__and digital,0.0,443
+text__grid,0.0,444
+text__grid secure,0.0,445
+text__grounded,0.0,446
+text__grounded in,0.0,447
+text__gym,0.0,448
+text__gym coach,0.0,449
+text__hand,0.0,450
+text__hand built,0.0,451
+text__haptic,0.0,452
+text__haptic device,0.0,453
+text__hardcoded,0.0,454
+text__hardcoded admin,0.0,455
+text__hardware for,0.0,456
+text__headers,0.0,457
+text__headers inter,0.0,458
+text__health,0.0,459
+text__health monitoring,0.0,460
+text__herb,0.0,461
+text__herb descriptions,0.0,462
+text__hivemq,0.0,463
+text__hivemq ble,0.0,464
+text__hooks,0.0,465
+text__hooks usestate,0.0,466
+text__hybrid,0.0,467
+text__hybrid learning,0.0,468
+text__i2c,0.0,469
+text__i2c wi,0.0,470
+text__ibm,0.0,471
+text__ibm plex,0.0,472
+text__icons,0.0,473
+text__icons google,0.0,474
+text__idf,0.0,475
+text__idf and,0.0,476
+text__in,0.0,477
+text__in rag,0.0,478
+text__in skill,0.0,479
+text__in whatever,0.0,480
+text__in your,0.0,481
+text__inline,0.0,482
+text__inline css,0.0,483
+text__instead,0.0,484
+text__instead of,0.0,485
+text__intelligence,0.0,486
+text__intelligence fintech,0.0,487
+text__intelligence machine,0.0,488
+text__intelligent,0.0,489
+text__intelligent good,0.0,490
+text__inter,0.0,491
+text__inter body,0.0,492
+text__ir,0.0,493
+text__ir led,0.0,494
+text__is,0.0,495
+text__is visible,0.0,496
+text__isn,0.0,497
+text__isn production,0.0,498
+text__java external,0.0,499
+text__java kotline,0.0,500
+text__java xampp,0.0,501
+text__js and,0.0,502
+text__js electronics,0.0,503
+text__js express,0.0,504
+text__js ml,0.0,505
+text__js node,0.0,506
+text__jupyter,0.0,507
+text__jupyter notebook,0.0,508
+text__just,0.0,509
+text__based authentication,0.0,510
+text__based recommendation,0.0,511
+text__based strategy,0.0,512
+text__battery,0.0,513
+text__biometric,0.0,514
+text__biometric authentication,0.0,515
+text__ble,0.0,516
+text__ble i2c,0.0,517
+text__blind people,0.0,518
+text__body,0.0,519
+text__body ibm,0.0,520
+text__bookmarks,0.0,521
+text__just applied,0.0,522
+text__keras,0.0,523
+text__keras opencv,0.0,524
+text__key,0.0,525
+text__key value,0.0,526
+text__kite,0.0,527
+text__kite connect,0.0,528
+text__kmeans,0.0,529
+text__kotline,0.0,530
+text__kotline xml,0.0,531
+text__langgraph,0.0,532
+text__langgraph fast,0.0,533
+text__layer,0.0,534
+text__layer anthropic,0.0,535
+text__leaf applicator,0.0,536
+text__leaf design,0.0,537
+text__learn cuda,0.0,538
+text__learn google,0.0,539
+text__learning resnet,0.0,540
+text__led,0.0,541
+text__led and,0.0,542
+text__legs,0.0,543
+text__legs using,0.0,544
+text__libraries,0.0,545
+text__libraries etc,0.0,546
+text__library,0.0,547
+text__library generates,0.0,548
+text__library tokenization,0.0,549
+text__lipo,0.0,550
+text__lipo battery,0.0,551
+text__live bus,0.0,552
+text__llm apis,0.0,553
+text__llms,0.0,554
+text__llms vector,0.0,555
+text__logs,0.0,556
+text__logs bookmarks,0.0,557
+text__lora headers,0.0,558
+text__lora wireless,0.0,559
+text__lucide,0.0,560
+text__lucide react,0.0,561
+text__made,0.0,562
+text__made for,0.0,563
+text__making,0.0,564
+text__making machine,0.0,565
+text__manager,0.0,566
+text__manufacturing,0.0,567
+text__manufacturing and,0.0,568
+text__matlab solidworks,0.0,569
+text__matplotlib,0.0,570
+text__matplotlib scikit,0.0,571
+text__max30102,0.0,572
+text__max30102 mpu6050,0.0,573
+text__mern llm,0.0,574
+text__mern stack,0.0,575
+text__ml based,0.0,576
+text__mlx90614,0.0,577
+text__mlx90614 flutter,0.0,578
+text__mongodb react,0.0,579
+text__monitoring,0.0,580
+text__monitoring using,0.0,581
+text__mono,0.0,582
+text__mono citations,0.0,583
+text__more,0.0,584
+text__mpu,0.0,585
+text__mpu 6050,0.0,586
+text__mpu6050 gps,0.0,587
+text__mpu6050 mlx90614,0.0,588
+text__mqtt,0.0,589
+text__mqtt hivemq,0.0,590
+text__multimodal,0.0,591
+text__multimodal ecg,0.0,592
+text__multu,0.0,593
+text__multu agent,0.0,594
+text__mysql,0.0,595
+text__mysql php,0.0,596
+text__name,0.0,597
+text__name vs,0.0,598
+text__nav,0.0,599
+text__nav wearable,0.0,600
+text__navigation,0.0,601
+text__navigation made,0.0,602
+text__net,0.0,603
+text__net garrison,0.0,604
+text__networks,0.0,605
+text__wireless communication,0.0,606
+text__news detection,0.0,607
+text__xlsx,0.0,608
+text__no,0.0,609
+text__no real,0.0,610
+text__wise,0.0,611
+text__not,0.0,612
+text__not library,0.0,613
+text__notebook,0.0,614
+text__your,0.0,615
+text__numpy pandas,0.0,616
+text__numpy scikit,0.0,617
+text__nutri,0.0,618
+text__nutri ai,0.0,619
+text__obstacle,0.0,620
+text__obstacle avoidence,0.0,621
+text__your report,0.0,622
+text__ocr aws,0.0,623
+text__ocular,0.0,624
+text__ocular burnout,0.0,625
+text__auraalert an,0.0,626
+text__auth,0.0,627
+text__auth simple,0.0,628
+text__answer,0.0,629
+text__automated options,0.0,630
+text__automated silver,0.0,631
+text__answer text,0.0,632
+text__awareness,0.0,633
+text__awareness system,0.0,634
+text__aws mqtt,0.0,635
+text__anthropic,0.0,636
+text__backend so,0.0,637
+text__anthropic claude,0.0,638
+text__of automated,0.0,639
+text__of dof,0.0,640
+text__of resumes,0.0,641
+text__called directly,0.0,642
+text__off grid,0.0,643
+text__only,0.0,644
+text__only role,0.0,645
+text__opencv numpy,0.0,646
+text__opencv web,0.0,647
+text__opencv yolo,0.0,648
+text__opstra,0.0,649
+text__options,0.0,650
+text__options trading,0.0,651
+text__others,0.0,652
+text__others etc,0.0,653
+text__car,0.0,654
+text__otp based,0.0,655
+text__pagerank,0.0,656
+text__pagerank tf,0.0,657
+text__palm,0.0,658
+text__palm leaf,0.0,659
+text__pandas,0.0,660
+text__pandas matplotlib,0.0,661
+text__car using,0.0,662
+text__parchment,0.0,663
+text__parchment palm,0.0,664
+text__catboost random,0.0,665
+text__password,0.0,666
+text__password no,0.0,667
+text__people,0.0,668
+text__persistent,0.0,669
+text__persistent key,0.0,670
+text__personal,0.0,671
+text__personal diet,0.0,672
+text__php,0.0,673
+text__check,0.0,674
+text__pi electronics,0.0,675
+text__pipe,0.0,676
+text__plainly,0.0,677
+text__check user,0.0,678
+text__cifer,0.0,679
+text__ai genai,0.0,680
+text__cifer secure,0.0,681
+text__citations,0.0,682
+text__citations ai,0.0,683
+text__classes,0.0,684
+text__classes custom,0.0,685
+text__plainly in,0.0,686
+text__platform with,0.0,687
+text__plex,0.0,688
+text__plex mono,0.0,689
+text__claude api,0.0,690
+text__powered predictions,0.0,691
+text__powered real,0.0,692
+text__powered self,0.0,693
+text__ppg biometric,0.0,694
+text__predictions,0.0,695
+text__predictions and,0.0,696
+text__claude sonnet,0.0,697
+text__printing compressor,0.0,698
+text__processing,0.0,699
+text__production,0.0,700
+text__production authentication,0.0,701
+text__python artificial,0.0,702
+text__python cnn,0.0,703
+text__python deep,0.0,704
+text__python fastapi,0.0,705
+text__python folium,0.0,706
+text__python kite,0.0,707
+text__python opencv,0.0,708
+text__python pytorch,0.0,709
+text__client,0.0,710
+text__python transformer,0.0,711
+text__pytorch timm,0.0,712
+text__pytorch torchvision,0.0,713
+text__question,0.0,714
+text__question paper,0.0,715
+text__rag hand,0.0,716
+text__rag langgraph,0.0,717
+text__random,0.0,718
+text__random forest,0.0,719
+text__raspberry,0.0,720
+text__raspberry pi,0.0,721
+text__client side,0.0,722
+text__react functional,0.0,723
+text__react icons,0.0,724
+text__react js,0.0,725
+text__react node,0.0,726
+text__cnn deep,0.0,727
+text__real backend,0.0,728
+text__real xlsx,0.0,729
+text__reciever,0.0,730
+text__reciever 150mah,0.0,731
+text__recognition,0.0,732
+text__recognition and,0.0,733
+text__recommendation algorithms,0.0,734
+text__removal,0.0,735
+text__removal term,0.0,736
+text__report,0.0,737
+text__cnn fft,0.0,738
+text__colab jupyter,0.0,739
+text__applied,0.0,740
+text__applied to,0.0,741
+text__communication cryptography,0.0,742
+text__arduino uno,0.0,743
+text__components,0.0,744
+text__components hooks,0.0,745
+text__conferencing,0.0,746
+text__conferencing using,0.0,747
+text__aura alert,0.0,748
+text__connect api,0.0,749
+text__report that,0.0,750
+text__resnet,0.0,751
+text__resnet 50,0.0,752
+text__resume shortlisting,0.0,753
+text__resumes,0.0,754
+text__resumes data,0.0,755
+text__retrieval,0.0,756
+text__retrieval the,0.0,757
+text__retrieved,0.0,758
+text__retrieved search,0.0,759
+text__risk,0.0,760
+text__risk based,0.0,761
+text__robo,0.0,762
+text__robo 3d,0.0,763
+text__context,0.0,764
+text__robotic arm,0.0,765
+text__robotic legs,0.0,766
+text__robotics,0.0,767
+text__robotics iot,0.0,768
+text__robust,0.0,769
+text__robust deepfake,0.0,770
+text__role,0.0,771
+text__role check,0.0,772
+text__rtdb,0.0,773
+text__rtdb firestore,0.0,774
+text__same,0.0,775
+text__same technique,0.0,776
+text__scara,0.0,777
+text__scara delta,0.0,778
+text__scikit,0.0,779
+text__scikit learn,0.0,780
+text__scope,0.0,781
+text__scope used,0.0,782
+text__search,0.0,783
+text__search retrieval,0.0,784
+text__secure access,0.0,785
+text__secure authentication,0.0,786
+text__secure file,0.0,787
+text__secure finance,0.0,788
+text__secure tactical,0.0,789
+text__context gets,0.0,790
+text__selection,0.0,791
+text__control,0.0,792
+text__sensore,0.0,793
+text__sensore ultasonic,0.0,794
+text__sessions,0.0,795
+text__sessions and,0.0,796
+text__shared,0.0,797
+text__shared scope,0.0,798
+text__sharing,0.0,799
+text__sharing system,0.0,800
+text__sheetjs,0.0,801
+text__sheetjs xlsx,0.0,802
+text__shortlisting,0.0,803
+text__shortlisting system,0.0,804
+text__side,0.0,805
+text__cosine,0.0,806
+text__silver,0.0,807
+text__silver leaf,0.0,808
+text__similarity,0.0,809
+text__similarity same,0.0,810
+text__simple,0.0,811
+text__simple demo,0.0,812
+text__skill,0.0,813
+text__skill gap,0.0,814
+text__smart dustbin,0.0,815
+text__smart obstacle,0.0,816
+text__smart tourist,0.0,817
+text__smartinfluence,0.0,818
+text__smartinfluence an,0.0,819
+text__so,0.0,820
+text__so data,0.0,821
+text__so worth,0.0,822
+text__software use,0.0,823
+text__softwares,0.0,824
+text__softwares scara,0.0,825
+text__solidworks,0.0,826
+text__solidworks etc,0.0,827
+text__sonnet,0.0,828
+text__sonnet called,0.0,829
+text__spatial,0.0,830
+text__spatial frequency,0.0,831
+text__speak,0.0,832
+text__speak dasborad,0.0,833
+text__stack,0.0,834
+text__stack python,0.0,835
+text__stating,0.0,836
+text__stating plainly,0.0,837
+text__stopword,0.0,838
+text__stopword removal,0.0,839
+text__storage and,0.0,840
+text__storage persistent,0.0,841
+text__storage window,0.0,842
+text__store,0.0,843
+text__store shared,0.0,844
+text__strategy,0.0,845
+text__strategy selection,0.0,846
+text__streamlit _geolocation,0.0,847
+text__streamlit framework,0.0,848
+text__streamlit python,0.0,849
+text__studio,0.0,850
+text__studio java,0.0,851
+text__suction,0.0,852
+text__suction cups,0.0,853
+text__survives,0.0,854
+text__survives across,0.0,855
+text__cosine similarity,0.0,856
+text__crime,0.0,857
+text__systems,0.0,858
+text__systems lora,0.0,859
+text__tactical,0.0,860
+text__tactical networks,0.0,861
+text__tailwind,0.0,862
+text__tailwind css,0.0,863
+text__take,0.0,864
+text__take off,0.0,865
+text__technique,0.0,866
+text__technique you,0.0,867
+text__technologies,0.0,868
+text__technologies real,0.0,869
+text__technology,0.0,870
+text__tensorflow keras,0.0,871
+text__tensorflow tflite,0.0,872
+text__term,0.0,873
+text__term frequency,0.0,874
+text__text,0.0,875
+text__text grounded,0.0,876
+text__textract,0.0,877
+text__textract pytorch,0.0,878
+text__tf,0.0,879
+text__tf idf,0.0,880
+text__tflite,0.0,881
+text__tflite python,0.0,882
+text__that,0.0,883
+text__that this,0.0,884
+text__the,0.0,885
+text__the actual,0.0,886
+text__the admin,0.0,887
+text__the browser,0.0,888
+text__the in,0.0,889
+text__the logs,0.0,890
+text__the parchment,0.0,891
+text__the real,0.0,892
+text__theoretical,0.0,893
+text__theoretical question,0.0,894
+text__think,0.0,895
+text__think speak,0.0,896
+text__this,0.0,897
+text__this generates,0.0,898
+text__this isn,0.0,899
+text__time,0.0,900
+text__time video,0.0,901
+text__time women,0.0,902
+text__timm,0.0,903
+text__timm mongodb,0.0,904
+text__to,0.0,905
+text__to excel,0.0,906
+text__to herb,0.0,907
+text__to the,0.0,908
+text__tokenization,0.0,909
+text__tokenization stopword,0.0,910
+text__tool,0.0,911
+text__torchvision,0.0,912
+text__side auth,0.0,913
+text__tourist,0.0,914
+text__tourist companion,0.0,915
+text__tracking system,0.0,916
+text__trading,0.0,917
+text__trading bot,0.0,918
+text__training,0.0,919
+text__transformer,0.0,920
+text__transformer ocr,0.0,921
+text__ultasonic,0.0,922
+text__ultasonic arduino,0.0,923
+text__universal,0.0,924
+text__universal syntax,0.0,925
+text__uno and,0.0,926
+text__use,0.0,927
+text__crime analytics,0.0,928
+text__cryptography,0.0,929
+text__admin,0.0,930
+text__admin export,0.0,931
+text__admin password,0.0,932
+text__admin view,0.0,933
+text__cryptography cybersecurity,0.0,934
+text__css for,0.0,935
+text__css utility,0.0,936
+text__used,0.0,937
+text__used for,0.0,938
+text__used in,0.0,939
+text__useeffect,0.0,940
+text__useeffect tailwind,0.0,941
+text__user,0.0,942
+text__user name,0.0,943
+text__usestate,0.0,944
+text__usestate useeffect,0.0,945
+text__using advanced,0.0,946
+text__using aes,0.0,947
+text__using arduino,0.0,948
+text__using computer,0.0,949
+text__using spatial,0.0,950
+text__utility,0.0,951
+text__utility classes,0.0,952
+text__v3,0.0,953
+text__v3 pytorch,0.0,954
+text__value,0.0,955
+text__value store,0.0,956
+text__vector,0.0,957
+text__vector dbs,0.0,958
+text__vectors,0.0,959
+text__vectors cosine,0.0,960
+text__vertical,0.0,961
+text__vertical take,0.0,962
+text__via,0.0,963
+text__via fetch,0.0,964
+text__cuda,0.0,965
+text__video conferencing,0.0,966
+text__video processing,0.0,967
+text__view,0.0,968
+text__view export,0.0,969
+text__visible,0.0,970
+text__visible to,0.0,971
+text__cuda resnet,0.0,972
+text__vision opencv,0.0,973
+text__vision tensorflow,0.0,974
+text__vs,0.0,975
+text__vs hardcoded,0.0,976
+text__wearable,0.0,977
+text__wearable haptic,0.0,978
+text__web,0.0,979
+text__web development,0.0,980
+text__web technologies,0.0,981
+text__whatever,0.0,982
+text__whatever context,0.0,983
+text__wi,0.0,984
+text__wi fi,0.0,985
+text__window,0.0,986
+text__window storage,0.0,987
+text__wireless,0.0,988
+text__cups,0.0,989
+text__wise training,0.0,990
+text__with adaptive,0.0,991
+text__with geospatial,0.0,992
+text__with pagerank,0.0,993
+text__women,0.0,994
+text__women safety,0.0,995
+text__worth,0.0,996
+text__worth stating,0.0,997
+text__xampp,0.0,998
+text__xampp mysql,0.0,999
+text__xgboost,0.0,1000
+text__xgboost catboost,0.0,1001
+text__xiao,0.0,1002
+text__xiao esp32c3,0.0,1003
+text__yolov8 raspberry,0.0,1004
+text__api claude,0.0,1005
+text__you,0.0,1006
+text__you used,0.0,1007
+text__xlsx file,0.0,1008
+text__xlsx library,0.0,1009
+text__xml,0.0,1010
+text__xml java,0.0,1011
+text__yolo,0.0,1012
+text__yolo sql,0.0,1013
+text__yolov8,0.0,1014
+text__custom,0.0,1015
+text__custom inline,0.0,1016
+text__cybersecurity,0.0,1017
+text__cybersecurity and,0.0,1018
+text__dart,0.0,1019
+text__torchvision opencv,0.0,1020
