@@ -1,0 +1,23 @@
+REVIANTA AI - STAGE 2 FEATURE ENGINEERING REPORT
+============================================================
+
+FEATURE GROUPS
+TF-IDF features: 1000
+Categorical features: 17
+Numeric features: 3
+Total features: 1020
+
+DATASET SHAPES
+TRAIN: (1521, 1020)
+VALIDATION: (538, 1020)
+TEST: (539, 1020)
+
+FEATURE ENGINEERING POLICY
+TF-IDF fitted on TRAIN only.
+Categorical encoder fitted on TRAIN only.
+Numeric scaler fitted on TRAIN only.
+Validation transformed using TRAIN-fitted transformers.
+Test transformed using TRAIN-fitted transformers.
+Target project_outcome excluded from input features.
+
+STATUS: FEATURE ENGINEERING PASSED

@@ -1,0 +1,36 @@
+REVIANTA AI - STAGE 2 MODEL TUNING REPORT
+============================================================
+
+DATA POLICY
+TRAIN data used: YES
+VALIDATION data used: YES
+TEST data used: NO
+
+MODEL SELECTION
+Primary metric: Validation Macro F1
+Best configuration: depth_5
+
+BEST VALIDATION PERFORMANCE
+Accuracy: 0.531599
+Macro Precision: 0.545731
+Macro Recall: 0.583499
+Macro F1: 0.555922
+Weighted F1: 0.524623
+Abandoned Precision: 0.635714
+Abandoned Recall: 0.816514
+Abandoned F1: 0.714859
+Log Loss: 0.914614
+
+MODEL COMPARISON
+        configuration  accuracy  macro_precision  macro_recall  macro_f1  weighted_f1  abandoned_recall  abandoned_f1  log_loss
+              depth_5  0.531599         0.545731      0.583499  0.555922     0.524623          0.816514      0.714859  0.914614
+    low_learning_rate  0.527881         0.539596      0.580327  0.551073     0.520176          0.816514      0.706349  0.915477
+             balanced  0.522305         0.536572      0.576245  0.546756     0.514370          0.816514      0.709163  0.916656
+             baseline  0.516729         0.527669      0.569909  0.540713     0.508791          0.816514      0.703557  0.921548
+strong_regularization  0.516729         0.524689      0.566965  0.535539     0.509303          0.798165      0.671815  0.923185
+  shallow_regularized  0.507435         0.520499      0.560506  0.532023     0.500019          0.807339      0.698413  0.919296
+
+BEST MODEL SAVED TO:
+C:\Users\neela\Downloads\revianta-ai\revianta-ai\data\stage2\models\nrie_stage2_tuned_candidate.json
+
+TEST DATA REMAINS UNTOUCHED.

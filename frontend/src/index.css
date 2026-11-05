@@ -1,0 +1,146 @@
+@import "tailwindcss";
+
+/* =========================================================
+   REVIANTA AI — DESIGN SYSTEM
+   Research-intelligence visual language: deep-space surfaces,
+   indigo/violet/cyan signal colors, a recurring "node graph"
+   motif, and restrained, purposeful glow.
+   ========================================================= */
+
+@theme {
+  /* ---- Color: base surfaces ---- */
+  --color-void: #04050b;
+  --color-base: #060811;
+  --color-surface: #0b0e1c;
+  --color-surface-2: #10142a;
+  --color-line: rgba(148, 163, 214, 0.14);
+  --color-line-strong: rgba(148, 163, 214, 0.28);
+
+  /* ---- Color: signal palette ---- */
+  --color-indigo: #5b5ff0;
+  --color-indigo-soft: #7c80f5;
+  --color-violet: #9153ea;
+  --color-cyan: #35e0d0;
+  --color-amber: #f2b25c;
+  --color-rose: #ef6a7c;
+
+  /* ---- Color: text ---- */
+  --color-text: #eef0fb;
+  --color-text-dim: #a9aecb;
+  --color-text-faint: #676d90;
+
+  /* ---- Type ---- */
+  --font-display: "Space Grotesk", "Segoe UI", sans-serif;
+  --font-body: "Manrope", "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  /* ---- Radius: intentionally mixed, not uniform ---- */
+  --radius-sharp: 4px;
+  --radius-panel: 22px;
+  --radius-pill: 999px;
+
+  /* ---- Shadow / glow ---- */
+  --shadow-panel: 0 30px 80px -30px rgba(4, 6, 16, 0.9);
+  --glow-indigo: 0 0 0 1px rgba(91, 95, 240, 0.25), 0 0 40px -8px rgba(91, 95, 240, 0.55);
+  --glow-cyan: 0 0 0 1px rgba(53, 224, 208, 0.25), 0 0 40px -10px rgba(53, 224, 208, 0.45);
+
+  /* ---- Animation ---- */
+  --ease-signal: cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-line);
+  }
+
+  html {
+    color-scheme: dark;
+  }
+
+  body {
+    background: var(--color-base);
+    color: var(--color-text);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+
+  ::selection {
+    background: rgba(91, 95, 240, 0.35);
+    color: #fff;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-cyan);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  ::-webkit-scrollbar { width: 10px; height: 10px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-surface-2);
+    border-radius: 999px;
+    border: 2px solid var(--color-base);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  /* Glass surface used by panels, cards, nav */
+  .glass {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.045), rgba(255, 255, 255, 0.015));
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid var(--color-line);
+  }
+
+  .glass-strong {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.07), rgba(255, 255, 255, 0.02));
+    backdrop-filter: blur(28px);
+    -webkit-backdrop-filter: blur(28px);
+    border: 1px solid var(--color-line-strong);
+  }
+
+  .text-gradient {
+    background: linear-gradient(100deg, #eef0fb 10%, #b9bdf5 50%, #35e0d0 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .mono-tag {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.02em;
+  }
+}
+
+@keyframes drift {
+  0% { transform: translate3d(0, 0, 0) scale(1); }
+  50% { transform: translate3d(2%, -3%, 0) scale(1.04); }
+  100% { transform: translate3d(0, 0, 0) scale(1); }
+}
+
+@keyframes pulse-node {
+  0%, 100% { opacity: 0.35; }
+  50% { opacity: 1; }
+}
+
+@keyframes rise-in {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: translateY(0); }
+}

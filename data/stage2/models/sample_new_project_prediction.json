@@ -1,0 +1,69 @@
+{
+  "model": "nrie_stage2_xgboost",
+  "prediction_type": "new_project_inference",
+  "predicted_class_id": 1,
+  "predicted_outcome": "Partially",
+  "probabilities": {
+    "Fully": 0.3611584007740021,
+    "Partially": 0.6000089645385742,
+    "Abandoned": 0.03883269429206848
+  },
+  "shap_explanation": {
+    "explained_class": "Partially",
+    "method": "SHAP TreeExplainer",
+    "interpretation": "Positive values push the model output toward the explained class; negative values push it away. They are not probabilities or causal effects.",
+    "top_features": [
+      {
+        "feature": "text__detection",
+        "contribution": -0.20891939103603363,
+        "direction": "away"
+      },
+      {
+        "feature": "text__opencv",
+        "contribution": 0.16361236572265625,
+        "direction": "toward"
+      },
+      {
+        "feature": "text__ai based",
+        "contribution": 0.09316010028123856,
+        "direction": "toward"
+      },
+      {
+        "feature": "numeric__team_size",
+        "contribution": 0.07862353324890137,
+        "direction": "toward"
+      },
+      {
+        "feature": "categorical__similar_project_awareness_many_exist",
+        "contribution": -0.07456105947494507,
+        "direction": "away"
+      },
+      {
+        "feature": "text__based",
+        "contribution": 0.060235414654016495,
+        "direction": "toward"
+      },
+      {
+        "feature": "categorical__dataset_availability_available",
+        "contribution": 0.044124092906713486,
+        "direction": "toward"
+      },
+      {
+        "feature": "text__hostel",
+        "contribution": 0.03058485873043537,
+        "direction": "toward"
+      },
+      {
+        "feature": "categorical__similar_project_awareness_not_sure",
+        "contribution": 0.030461635440587997,
+        "direction": "toward"
+      },
+      {
+        "feature": "categorical__hardware_required_yes",
+        "contribution": 0.02480573207139969,
+        "direction": "toward"
+      }
+    ]
+  },
+  "note": "Model prediction is decision support, not a guarantee of the project's eventual outcome."
+}

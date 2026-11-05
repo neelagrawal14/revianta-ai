@@ -1,0 +1,68 @@
+{
+  "model": "nrie_stage2_xgboost",
+  "sample_index": 0,
+  "predicted_class_id": 1,
+  "predicted_outcome": "Partially",
+  "probabilities": {
+    "Fully": 0.3502965271472931,
+    "Partially": 0.5936198830604553,
+    "Abandoned": 0.05608358606696129
+  },
+  "shap_explanation": {
+    "explained_class": "Partially",
+    "method": "SHAP TreeExplainer",
+    "top_features": [
+      {
+        "feature": "text__recommendation",
+        "contribution": -0.2631993889808655,
+        "direction": "away"
+      },
+      {
+        "feature": "text__access",
+        "contribution": 0.18730102479457855,
+        "direction": "toward"
+      },
+      {
+        "feature": "numeric__team_size",
+        "contribution": 0.09779288619756699,
+        "direction": "toward"
+      },
+      {
+        "feature": "text__mern",
+        "contribution": 0.06805912405252457,
+        "direction": "toward"
+      },
+      {
+        "feature": "text__system",
+        "contribution": 0.059559617191553116,
+        "direction": "toward"
+      },
+      {
+        "feature": "text__and",
+        "contribution": -0.055905554443597794,
+        "direction": "away"
+      },
+      {
+        "feature": "text__authentication",
+        "contribution": 0.05587085336446762,
+        "direction": "toward"
+      },
+      {
+        "feature": "text__based",
+        "contribution": 0.040931038558483124,
+        "direction": "toward"
+      },
+      {
+        "feature": "categorical__similar_project_awareness_not_sure",
+        "contribution": 0.03779571130871773,
+        "direction": "toward"
+      },
+      {
+        "feature": "text__access control",
+        "contribution": 0.03589548543095589,
+        "direction": "toward"
+      }
+    ]
+  },
+  "note": "Explanation for saved test sample 0; not a new user project prediction."
+}
